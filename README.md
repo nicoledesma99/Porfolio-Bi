@@ -8,8 +8,8 @@
 ### 2. Tablero de Gestión- Proyectos inmobiliarios
 [🔗 Ver dashboard interactivo](https://app.powerbi.com/view?r=eyJrIjoiNThiMWJkMjItZDlmMC00OWVkLTk3MDktM2I0YzE5OGM4NTUyIiwidCI6IjlkOGNhZDcyLTUyMGMtNGU2Yi1iYjJmLTJlZGRlNjU0MTJmOSIsImMiOjR9)
 
-### 3. Control de Cobranzas - Telecomunicaciones
-[🔗 Ver dashboard interactivo](https://app.powerbi.com/view?r=LINK_3)
+### 3. Analisis de Bajas de afiliados -   Prepaga de salud
+[🔗 Ver dashboard interactivo](https://app.powerbi.com/view?r=eyJrIjoiNjFiOTgwMjktYjMxMi00YjUyLWI0NmUtMGRkZmVhMmUzMjEwIiwidCI6IjA4ZWRmMjhhLWVmNzEtNDk5MS05YWMzLWU3NWMyZWVmZjFhMCJ9)
 
-### 4. Rentabilidad - Salud Domiciliaria
+### 4. Rentabilidad de convenios - Prepaga de salud
 [🔗 Ver dashboard interactivo](https://app.powerbi.com/view?r=eyJrIjoiZjgxZmU4NTAtYWM3MS00ZGIyLWJlZDYtNjMyMDBjYmJhNTIxIiwidCI6IjA4ZWRmMjhhLWVmNzEtNDk5MS05YWMzLWU3NWMyZWVmZjFhMCJ9)
