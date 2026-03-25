@@ -12,4 +12,4 @@
 [🔗 Ver dashboard interactivo](https://app.powerbi.com/view?r=LINK_3)
 
 ### 4. Rentabilidad - Salud Domiciliaria
-[🔗 Ver dashboard interactivo](https://app.powerbi.com/view?r=LINK_4)
+[🔗 Ver dashboard interactivo](https://app.powerbi.com/view?r=eyJrIjoiZjgxZmU4NTAtYWM3MS00ZGIyLWJlZDYtNjMyMDBjYmJhNTIxIiwidCI6IjA4ZWRmMjhhLWVmNzEtNDk5MS05YWMzLWU3NWMyZWVmZjFhMCJ9)
