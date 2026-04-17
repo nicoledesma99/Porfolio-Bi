@@ -11,5 +11,5 @@
 ### 3. Analisis de Bajas de afiliados -   Prepaga de salud
 [🔗 Ver dashboard interactivo](https://app.powerbi.com/view?r=eyJrIjoiNjFiOTgwMjktYjMxMi00YjUyLWI0NmUtMGRkZmVhMmUzMjEwIiwidCI6IjA4ZWRmMjhhLWVmNzEtNDk5MS05YWMzLWU3NWMyZWVmZjFhMCJ9)
 
-### 4. Rentabilidad de convenios - Prepaga de salud
+### 4. Tablero operativo - Prepaga de salud
 **🔗 [Ver proyecto Looker completo](./looker-project/)** - Modelo LookML + BigQuery
