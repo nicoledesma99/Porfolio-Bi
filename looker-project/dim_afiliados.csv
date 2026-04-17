@@ -1,0 +1,1501 @@
+afiliado_id,nombre,edad,genero,plan,fecha_alta,fecha_baja,estado,empresa_id,grupo_familiar_id,ciudad,provincia
+1,Afiliado 0001,64,M,Plan C,2020-05-02,2023-01-09,Baja,9,102,Jesús María,Córdoba
+2,Afiliado 0002,35,M,Plan B,2022-06-21,,Activo,3,358,Jesús María,Córdoba
+3,Afiliado 0003,27,F,Plan C,2023-10-25,,Activo,2,48,Jesús María,Córdoba
+4,Afiliado 0004,44,F,Plan A,2021-01-31,,Activo,1,374,Bell Ville,Córdoba
+5,Afiliado 0005,10,F,Plan A,2026-01-05,2026-02-28,Baja,10,186,Alta Gracia,Córdoba
+6,Afiliado 0006,37,M,Plan A,2020-10-11,2022-02-19,Baja,4,52,Jesús María,Córdoba
+7,Afiliado 0007,46,M,Plan A,2023-02-12,,Activo,6,182,Alta Gracia,Córdoba
+8,Afiliado 0008,82,M,Plan A,2022-12-29,,Activo,10,326,Río Cuarto,Córdoba
+9,Afiliado 0009,20,F,Plan A,2025-12-27,,Activo,7,139,Alta Gracia,Córdoba
+10,Afiliado 0010,7,M,Plan B,2023-08-21,,Activo,1,162,Jesús María,Córdoba
+11,Afiliado 0011,27,F,Plan A,2023-01-01,2024-11-05,Baja,7,330,Bell Ville,Córdoba
+12,Afiliado 0012,31,F,Plan A,2021-08-08,,Activo,10,220,Jesús María,Córdoba
+13,Afiliado 0013,17,F,Plan B,2024-01-22,,Activo,2,387,Córdoba Capital,Córdoba
+14,Afiliado 0014,20,F,Plan A,2021-03-25,,Activo,10,33,Jesús María,Córdoba
+15,Afiliado 0015,59,F,Plan B,2024-04-12,,Activo,9,6,Villa Carlos Paz,Córdoba
+16,Afiliado 0016,82,F,Plan A,2026-01-08,,Activo,2,151,Jesús María,Córdoba
+17,Afiliado 0017,33,M,Plan C,2021-10-09,,Activo,9,55,Villa María,Córdoba
+18,Afiliado 0018,19,F,Plan B,2025-09-10,,Activo,3,277,Córdoba Capital,Córdoba
+19,Afiliado 0019,14,F,Plan A,2023-08-20,,Activo,5,123,Córdoba Capital,Córdoba
+20,Afiliado 0020,10,M,Plan A,2022-09-13,,Activo,8,36,Río Cuarto,Córdoba
+21,Afiliado 0021,70,M,Plan B,2021-06-09,,Activo,5,271,Jesús María,Córdoba
+22,Afiliado 0022,25,F,Plan B,2022-05-17,,Activo,7,344,San Francisco,Córdoba
+23,Afiliado 0023,57,M,Plan B,2024-11-29,,Activo,4,116,Villa Carlos Paz,Córdoba
+24,Afiliado 0024,29,M,Plan B,2023-10-16,2025-06-04,Baja,1,37,Córdoba Capital,Córdoba
+25,Afiliado 0025,42,M,Plan A,2022-07-26,2022-10-28,Baja,9,122,Villa María,Córdoba
+26,Afiliado 0026,16,F,Plan A,2025-06-11,,Activo,4,243,Jesús María,Córdoba
+27,Afiliado 0027,55,F,Plan A,2022-02-18,2025-11-28,Baja,7,211,Bell Ville,Córdoba
+28,Afiliado 0028,82,M,Plan C,2020-08-09,,Activo,1,207,San Francisco,Córdoba
+29,Afiliado 0029,24,F,Plan B,2021-03-23,,Activo,3,217,Río Cuarto,Córdoba
+30,Afiliado 0030,9,F,Plan A,2023-02-14,,Activo,9,51,Córdoba Capital,Córdoba
+31,Afiliado 0031,11,M,Plan A,2026-01-23,,Activo,3,209,Bell Ville,Córdoba
+32,Afiliado 0032,51,M,Plan A,2025-05-25,,Activo,3,195,Córdoba Capital,Córdoba
+33,Afiliado 0033,58,F,Plan A,2024-05-18,,Activo,7,357,Bell Ville,Córdoba
+34,Afiliado 0034,27,M,Plan B,2021-09-26,,Activo,10,377,Córdoba Capital,Córdoba
+35,Afiliado 0035,61,M,Plan B,2023-07-08,2025-03-27,Baja,1,261,Villa Carlos Paz,Córdoba
+36,Afiliado 0036,30,F,Plan C,2022-01-31,2022-07-19,Baja,2,292,Alta Gracia,Córdoba
+37,Afiliado 0037,53,F,Plan A,2020-06-11,,Activo,5,105,San Francisco,Córdoba
+38,Afiliado 0038,16,F,Plan A,2022-09-04,,Activo,8,162,Villa Carlos Paz,Córdoba
+39,Afiliado 0039,72,M,Plan B,2020-02-08,,Activo,2,276,Alta Gracia,Córdoba
+40,Afiliado 0040,44,M,Plan B,2025-09-03,,Activo,4,190,Villa María,Córdoba
+41,Afiliado 0041,69,F,Plan B,2021-10-08,,Activo,10,335,Córdoba Capital,Córdoba
+42,Afiliado 0042,84,M,Plan B,2026-03-21,,Activo,3,136,Villa Carlos Paz,Córdoba
+43,Afiliado 0043,19,F,Plan A,2021-03-14,,Activo,5,310,Alta Gracia,Córdoba
+44,Afiliado 0044,81,F,Plan B,2023-11-05,,Activo,9,251,Villa María,Córdoba
+45,Afiliado 0045,35,M,Plan A,2020-07-27,2023-01-10,Baja,1,171,Río Cuarto,Córdoba
+46,Afiliado 0046,56,F,Plan A,2022-12-08,,Activo,9,5,Villa Carlos Paz,Córdoba
+47,Afiliado 0047,19,M,Plan A,2020-11-04,,Activo,6,299,Río Cuarto,Córdoba
+48,Afiliado 0048,46,M,Plan A,2024-10-26,2025-05-01,Baja,6,108,Alta Gracia,Córdoba
+49,Afiliado 0049,71,F,Plan B,2021-02-25,,Activo,10,384,Río Cuarto,Córdoba
+50,Afiliado 0050,22,F,Plan A,2022-08-27,,Activo,1,92,San Francisco,Córdoba
+51,Afiliado 0051,31,F,Plan B,2024-08-13,,Activo,3,360,Villa Carlos Paz,Córdoba
+52,Afiliado 0052,60,M,Plan C,2024-04-15,,Activo,4,236,San Francisco,Córdoba
+53,Afiliado 0053,29,M,Plan A,2023-06-04,,Activo,1,338,Alta Gracia,Córdoba
+54,Afiliado 0054,8,F,Plan A,2024-06-20,,Activo,6,329,Jesús María,Córdoba
+55,Afiliado 0055,3,M,Plan B,2026-01-05,,Activo,5,92,Villa María,Córdoba
+56,Afiliado 0056,44,F,Plan A,2020-06-05,2025-05-19,Baja,7,311,Villa Carlos Paz,Córdoba
+57,Afiliado 0057,24,F,Plan A,2024-04-26,,Activo,1,363,Jesús María,Córdoba
+58,Afiliado 0058,68,M,Plan A,2020-01-07,,Activo,6,221,Villa Carlos Paz,Córdoba
+59,Afiliado 0059,84,M,Plan A,2023-09-14,,Activo,5,260,Villa María,Córdoba
+60,Afiliado 0060,37,M,Plan C,2024-07-30,,Activo,4,216,Jesús María,Córdoba
+61,Afiliado 0061,38,F,Plan B,2021-12-13,,Activo,9,1,Villa María,Córdoba
+62,Afiliado 0062,74,F,Plan B,2023-03-21,,Activo,8,227,Bell Ville,Córdoba
+63,Afiliado 0063,21,M,Plan C,2022-05-25,,Activo,5,264,San Francisco,Córdoba
+64,Afiliado 0064,30,F,Plan B,2021-01-17,,Activo,4,102,Río Cuarto,Córdoba
+65,Afiliado 0065,78,M,Plan A,2020-04-10,2025-09-07,Baja,8,213,Alta Gracia,Córdoba
+66,Afiliado 0066,31,M,Plan C,2024-04-21,,Activo,1,385,Villa Carlos Paz,Córdoba
+67,Afiliado 0067,66,F,Plan B,2024-10-07,,Activo,1,286,Alta Gracia,Córdoba
+68,Afiliado 0068,59,F,Plan B,2021-05-12,,Activo,8,314,Jesús María,Córdoba
+69,Afiliado 0069,20,F,Plan C,2026-02-22,,Activo,8,133,Alta Gracia,Córdoba
+70,Afiliado 0070,66,F,Plan A,2023-02-09,,Activo,4,141,Bell Ville,Córdoba
+71,Afiliado 0071,30,F,Plan A,2020-11-13,,Activo,6,164,Villa Carlos Paz,Córdoba
+72,Afiliado 0072,49,M,Plan A,2021-07-20,,Activo,4,33,Jesús María,Córdoba
+73,Afiliado 0073,59,F,Plan A,2024-07-27,,Activo,1,106,Jesús María,Córdoba
+74,Afiliado 0074,74,M,Plan B,2024-05-14,,Activo,10,195,Bell Ville,Córdoba
+75,Afiliado 0075,38,F,Plan C,2020-01-25,,Activo,7,276,Alta Gracia,Córdoba
+76,Afiliado 0076,55,F,Plan A,2025-06-22,,Activo,1,200,San Francisco,Córdoba
+77,Afiliado 0077,59,M,Plan B,2024-07-14,,Activo,10,274,Córdoba Capital,Córdoba
+78,Afiliado 0078,84,M,Plan A,2024-06-01,,Activo,2,330,Jesús María,Córdoba
+79,Afiliado 0079,23,M,Plan A,2021-07-09,,Activo,5,195,San Francisco,Córdoba
+80,Afiliado 0080,43,F,Plan A,2022-05-16,,Activo,5,386,Jesús María,Córdoba
+81,Afiliado 0081,60,M,Plan A,2022-10-30,,Activo,9,27,San Francisco,Córdoba
+82,Afiliado 0082,83,M,Plan C,2022-07-07,,Activo,1,127,Alta Gracia,Córdoba
+83,Afiliado 0083,30,M,Plan A,2020-03-24,,Activo,8,343,Villa Carlos Paz,Córdoba
+84,Afiliado 0084,32,F,Plan B,2022-06-11,,Activo,3,311,Villa Carlos Paz,Córdoba
+85,Afiliado 0085,13,M,Plan B,2021-11-01,,Activo,5,295,Jesús María,Córdoba
+86,Afiliado 0086,25,M,Plan A,2024-06-12,,Activo,10,354,Alta Gracia,Córdoba
+87,Afiliado 0087,38,M,Plan C,2021-02-21,,Activo,10,22,San Francisco,Córdoba
+88,Afiliado 0088,47,M,Plan C,2025-12-22,,Activo,9,332,San Francisco,Córdoba
+89,Afiliado 0089,62,M,Plan A,2020-02-21,,Activo,7,186,Bell Ville,Córdoba
+90,Afiliado 0090,66,F,Plan A,2021-09-18,,Activo,10,276,Bell Ville,Córdoba
+91,Afiliado 0091,75,F,Plan A,2025-03-19,,Activo,6,126,Villa Carlos Paz,Córdoba
+92,Afiliado 0092,31,F,Plan A,2023-02-16,,Activo,10,313,Jesús María,Córdoba
+93,Afiliado 0093,41,M,Plan A,2023-10-09,2026-03-28,Baja,8,109,San Francisco,Córdoba
+94,Afiliado 0094,76,F,Plan B,2022-11-24,,Activo,9,6,Alta Gracia,Córdoba
+95,Afiliado 0095,52,F,Plan B,2020-12-16,,Activo,9,389,Alta Gracia,Córdoba
+96,Afiliado 0096,62,F,Plan A,2025-05-04,,Activo,1,48,Villa María,Córdoba
+97,Afiliado 0097,31,F,Plan A,2022-06-26,,Activo,10,189,Bell Ville,Córdoba
+98,Afiliado 0098,54,F,Plan C,2026-03-17,,Activo,6,360,Bell Ville,Córdoba
+99,Afiliado 0099,29,M,Plan A,2023-01-14,,Activo,4,162,Villa Carlos Paz,Córdoba
+100,Afiliado 0100,23,M,Plan A,2026-01-03,,Activo,4,379,Bell Ville,Córdoba
+101,Afiliado 0101,67,F,Plan A,2023-02-06,,Activo,2,100,Villa María,Córdoba
+102,Afiliado 0102,38,M,Plan C,2022-07-20,,Activo,9,65,Villa María,Córdoba
+103,Afiliado 0103,70,F,Plan A,2020-07-05,,Activo,3,327,Bell Ville,Córdoba
+104,Afiliado 0104,73,F,Plan B,2021-02-24,,Activo,8,246,Bell Ville,Córdoba
+105,Afiliado 0105,6,F,Plan B,2023-10-27,,Activo,8,59,Villa Carlos Paz,Córdoba
+106,Afiliado 0106,73,M,Plan A,2024-06-29,,Activo,3,77,Villa María,Córdoba
+107,Afiliado 0107,15,F,Plan B,2020-12-14,,Activo,10,306,Alta Gracia,Córdoba
+108,Afiliado 0108,56,F,Plan A,2025-11-10,,Activo,10,220,Villa María,Córdoba
+109,Afiliado 0109,12,M,Plan B,2020-09-03,,Activo,4,136,Villa Carlos Paz,Córdoba
+110,Afiliado 0110,70,M,Plan B,2021-10-05,,Activo,3,2,Jesús María,Córdoba
+111,Afiliado 0111,60,F,Plan B,2025-01-19,,Activo,1,119,Villa María,Córdoba
+112,Afiliado 0112,58,M,Plan A,2023-03-04,,Activo,4,136,Alta Gracia,Córdoba
+113,Afiliado 0113,82,M,Plan B,2024-10-07,2025-03-01,Baja,5,73,Villa Carlos Paz,Córdoba
+114,Afiliado 0114,39,F,Plan A,2020-09-01,,Activo,8,64,Bell Ville,Córdoba
+115,Afiliado 0115,34,F,Plan A,2023-05-30,,Activo,8,42,Córdoba Capital,Córdoba
+116,Afiliado 0116,77,F,Plan A,2024-11-04,,Activo,1,47,Alta Gracia,Córdoba
+117,Afiliado 0117,34,M,Plan B,2020-03-25,,Activo,3,241,Bell Ville,Córdoba
+118,Afiliado 0118,74,F,Plan B,2023-02-13,,Activo,8,47,Bell Ville,Córdoba
+119,Afiliado 0119,41,M,Plan A,2023-11-26,,Activo,3,169,Jesús María,Córdoba
+120,Afiliado 0120,51,M,Plan B,2025-07-22,,Activo,8,46,San Francisco,Córdoba
+121,Afiliado 0121,51,M,Plan A,2022-10-30,,Activo,9,237,Jesús María,Córdoba
+122,Afiliado 0122,46,F,Plan B,2020-08-10,,Activo,8,390,Córdoba Capital,Córdoba
+123,Afiliado 0123,16,F,Plan A,2022-04-13,,Activo,8,358,Bell Ville,Córdoba
+124,Afiliado 0124,77,M,Plan B,2021-05-12,2024-12-22,Baja,3,160,Córdoba Capital,Córdoba
+125,Afiliado 0125,28,M,Plan A,2026-03-12,,Activo,8,61,Río Cuarto,Córdoba
+126,Afiliado 0126,37,F,Plan C,2025-08-03,,Activo,7,248,Bell Ville,Córdoba
+127,Afiliado 0127,18,F,Plan A,2022-09-25,,Activo,4,307,Río Cuarto,Córdoba
+128,Afiliado 0128,53,F,Plan A,2020-10-12,,Activo,9,137,Córdoba Capital,Córdoba
+129,Afiliado 0129,75,F,Plan A,2023-03-04,,Activo,3,229,Bell Ville,Córdoba
+130,Afiliado 0130,69,F,Plan C,2023-11-14,,Activo,8,165,Alta Gracia,Córdoba
+131,Afiliado 0131,29,F,Plan C,2022-09-05,,Activo,1,163,Bell Ville,Córdoba
+132,Afiliado 0132,84,M,Plan A,2024-04-10,,Activo,8,19,Río Cuarto,Córdoba
+133,Afiliado 0133,42,M,Plan B,2025-08-19,,Activo,8,52,Bell Ville,Córdoba
+134,Afiliado 0134,52,M,Plan B,2020-03-03,,Activo,2,241,Villa María,Córdoba
+135,Afiliado 0135,50,M,Plan B,2023-10-18,,Activo,6,346,Jesús María,Córdoba
+136,Afiliado 0136,62,M,Plan B,2023-07-21,,Activo,10,36,Alta Gracia,Córdoba
+137,Afiliado 0137,11,F,Plan A,2023-03-23,,Activo,2,390,Villa Carlos Paz,Córdoba
+138,Afiliado 0138,38,M,Plan A,2024-12-22,,Activo,1,167,Córdoba Capital,Córdoba
+139,Afiliado 0139,55,M,Plan C,2023-04-16,,Activo,4,272,Jesús María,Córdoba
+140,Afiliado 0140,10,F,Plan C,2022-01-07,,Activo,10,350,Alta Gracia,Córdoba
+141,Afiliado 0141,18,M,Plan B,2025-07-31,,Activo,8,327,Villa María,Córdoba
+142,Afiliado 0142,1,F,Plan A,2025-02-25,,Activo,5,347,Río Cuarto,Córdoba
+143,Afiliado 0143,44,F,Plan A,2020-10-29,,Activo,7,354,Villa María,Córdoba
+144,Afiliado 0144,25,F,Plan B,2025-02-14,,Activo,8,55,Alta Gracia,Córdoba
+145,Afiliado 0145,73,F,Plan C,2024-04-11,,Activo,5,12,Jesús María,Córdoba
+146,Afiliado 0146,77,F,Plan C,2023-01-29,2023-06-08,Baja,5,398,Alta Gracia,Córdoba
+147,Afiliado 0147,24,F,Plan B,2023-12-14,,Activo,3,322,Villa Carlos Paz,Córdoba
+148,Afiliado 0148,56,M,Plan B,2020-06-10,,Activo,10,187,Río Cuarto,Córdoba
+149,Afiliado 0149,41,F,Plan A,2021-01-04,,Activo,3,103,Río Cuarto,Córdoba
+150,Afiliado 0150,46,F,Plan A,2026-01-18,,Activo,3,132,Bell Ville,Córdoba
+151,Afiliado 0151,43,M,Plan C,2023-04-23,,Activo,8,39,Río Cuarto,Córdoba
+152,Afiliado 0152,50,F,Plan B,2022-07-13,,Activo,2,203,Córdoba Capital,Córdoba
+153,Afiliado 0153,58,F,Plan A,2022-12-19,,Activo,5,300,Jesús María,Córdoba
+154,Afiliado 0154,60,M,Plan A,2024-03-01,2024-11-25,Baja,10,288,San Francisco,Córdoba
+155,Afiliado 0155,81,F,Plan B,2022-06-25,,Activo,5,333,Jesús María,Córdoba
+156,Afiliado 0156,38,F,Plan A,2021-04-22,2021-08-06,Baja,2,50,Alta Gracia,Córdoba
+157,Afiliado 0157,47,F,Plan A,2026-01-10,2026-03-10,Baja,10,381,Río Cuarto,Córdoba
+158,Afiliado 0158,62,F,Plan B,2024-08-26,,Activo,5,17,San Francisco,Córdoba
+159,Afiliado 0159,30,F,Plan B,2022-06-08,,Activo,2,352,San Francisco,Córdoba
+160,Afiliado 0160,82,F,Plan B,2026-02-08,,Activo,1,204,Villa María,Córdoba
+161,Afiliado 0161,58,M,Plan A,2022-02-16,,Activo,4,329,Córdoba Capital,Córdoba
+162,Afiliado 0162,31,M,Plan B,2020-07-26,,Activo,10,106,Villa Carlos Paz,Córdoba
+163,Afiliado 0163,27,M,Plan A,2026-03-20,,Activo,6,397,Río Cuarto,Córdoba
+164,Afiliado 0164,18,M,Plan A,2020-01-12,,Activo,9,129,Río Cuarto,Córdoba
+165,Afiliado 0165,3,M,Plan B,2021-03-26,,Activo,1,184,Alta Gracia,Córdoba
+166,Afiliado 0166,6,M,Plan B,2023-08-19,2024-06-15,Baja,7,270,Villa Carlos Paz,Córdoba
+167,Afiliado 0167,46,M,Plan B,2020-09-17,,Activo,8,258,Alta Gracia,Córdoba
+168,Afiliado 0168,84,F,Plan B,2020-06-26,,Activo,8,330,Córdoba Capital,Córdoba
+169,Afiliado 0169,51,F,Plan B,2020-09-06,,Activo,2,252,Bell Ville,Córdoba
+170,Afiliado 0170,41,M,Plan A,2020-10-28,,Activo,2,65,Villa María,Córdoba
+171,Afiliado 0171,48,F,Plan A,2026-02-24,,Activo,8,259,Jesús María,Córdoba
+172,Afiliado 0172,14,M,Plan A,2021-02-10,,Activo,7,232,Alta Gracia,Córdoba
+173,Afiliado 0173,58,F,Plan A,2024-08-21,,Activo,7,374,Villa Carlos Paz,Córdoba
+174,Afiliado 0174,85,F,Plan C,2023-07-04,,Activo,6,79,Bell Ville,Córdoba
+175,Afiliado 0175,11,F,Plan A,2020-10-01,2021-04-23,Baja,2,382,San Francisco,Córdoba
+176,Afiliado 0176,75,F,Plan C,2021-06-16,,Activo,2,211,San Francisco,Córdoba
+177,Afiliado 0177,6,F,Plan B,2024-09-28,,Activo,10,160,San Francisco,Córdoba
+178,Afiliado 0178,27,M,Plan B,2021-02-28,,Activo,8,115,Villa Carlos Paz,Córdoba
+179,Afiliado 0179,47,M,Plan B,2023-12-05,,Activo,5,294,Alta Gracia,Córdoba
+180,Afiliado 0180,79,M,Plan B,2024-10-23,,Activo,10,337,Villa María,Córdoba
+181,Afiliado 0181,39,F,Plan A,2020-04-28,,Activo,6,4,Río Cuarto,Córdoba
+182,Afiliado 0182,51,M,Plan A,2021-08-09,,Activo,3,380,Córdoba Capital,Córdoba
+183,Afiliado 0183,27,F,Plan B,2021-01-10,,Activo,7,233,San Francisco,Córdoba
+184,Afiliado 0184,41,M,Plan A,2021-10-06,,Activo,1,80,Río Cuarto,Córdoba
+185,Afiliado 0185,34,F,Plan A,2020-07-22,,Activo,7,249,Bell Ville,Córdoba
+186,Afiliado 0186,65,M,Plan B,2024-08-23,,Activo,6,221,Villa Carlos Paz,Córdoba
+187,Afiliado 0187,75,F,Plan A,2023-03-06,,Activo,9,342,Villa María,Córdoba
+188,Afiliado 0188,76,M,Plan C,2020-07-05,,Activo,1,105,Villa María,Córdoba
+189,Afiliado 0189,32,F,Plan C,2022-05-15,,Activo,6,62,Córdoba Capital,Córdoba
+190,Afiliado 0190,22,M,Plan C,2025-07-30,,Activo,7,273,Alta Gracia,Córdoba
+191,Afiliado 0191,85,F,Plan A,2025-08-11,,Activo,2,204,Córdoba Capital,Córdoba
+192,Afiliado 0192,40,F,Plan A,2024-11-21,2025-01-29,Baja,10,208,Jesús María,Córdoba
+193,Afiliado 0193,41,M,Plan C,2023-03-31,2023-06-11,Baja,10,236,San Francisco,Córdoba
+194,Afiliado 0194,13,M,Plan A,2020-12-26,,Activo,7,302,Jesús María,Córdoba
+195,Afiliado 0195,43,M,Plan C,2025-11-16,2026-01-24,Baja,6,399,Río Cuarto,Córdoba
+196,Afiliado 0196,14,M,Plan C,2020-11-08,,Activo,6,180,Río Cuarto,Córdoba
+197,Afiliado 0197,25,M,Plan C,2022-08-25,2024-03-01,Baja,10,79,Villa Carlos Paz,Córdoba
+198,Afiliado 0198,80,F,Plan A,2021-12-26,,Activo,8,387,Bell Ville,Córdoba
+199,Afiliado 0199,80,F,Plan A,2023-08-16,,Activo,3,226,Villa Carlos Paz,Córdoba
+200,Afiliado 0200,38,F,Plan C,2025-04-04,,Activo,10,29,San Francisco,Córdoba
+201,Afiliado 0201,57,M,Plan A,2025-09-09,2026-02-04,Baja,1,189,Villa María,Córdoba
+202,Afiliado 0202,11,F,Plan A,2020-11-10,,Activo,8,298,Córdoba Capital,Córdoba
+203,Afiliado 0203,73,M,Plan B,2025-01-16,,Activo,6,310,Bell Ville,Córdoba
+204,Afiliado 0204,7,F,Plan C,2025-08-15,,Activo,2,176,Villa Carlos Paz,Córdoba
+205,Afiliado 0205,5,M,Plan B,2025-08-28,,Activo,8,225,Río Cuarto,Córdoba
+206,Afiliado 0206,36,F,Plan B,2024-01-30,,Activo,7,397,San Francisco,Córdoba
+207,Afiliado 0207,82,F,Plan A,2020-08-02,,Activo,2,169,Villa Carlos Paz,Córdoba
+208,Afiliado 0208,84,M,Plan B,2024-05-02,,Activo,6,42,Río Cuarto,Córdoba
+209,Afiliado 0209,83,F,Plan C,2023-12-03,,Activo,3,305,Villa Carlos Paz,Córdoba
+210,Afiliado 0210,82,F,Plan A,2023-06-22,,Activo,3,344,Villa Carlos Paz,Córdoba
+211,Afiliado 0211,2,F,Plan B,2024-09-30,,Activo,5,93,Alta Gracia,Córdoba
+212,Afiliado 0212,62,M,Plan C,2023-10-31,,Activo,4,71,Río Cuarto,Córdoba
+213,Afiliado 0213,12,M,Plan B,2020-11-12,,Activo,6,393,Río Cuarto,Córdoba
+214,Afiliado 0214,23,M,Plan B,2024-03-23,,Activo,8,23,Jesús María,Córdoba
+215,Afiliado 0215,30,F,Plan B,2024-02-01,,Activo,10,146,Bell Ville,Córdoba
+216,Afiliado 0216,39,F,Plan A,2022-08-16,,Activo,4,189,Bell Ville,Córdoba
+217,Afiliado 0217,48,F,Plan A,2025-03-06,,Activo,3,103,Río Cuarto,Córdoba
+218,Afiliado 0218,47,M,Plan B,2022-10-21,2025-07-31,Baja,9,64,Villa María,Córdoba
+219,Afiliado 0219,34,F,Plan B,2020-12-09,,Activo,9,76,Jesús María,Córdoba
+220,Afiliado 0220,28,F,Plan C,2021-01-10,,Activo,6,14,Jesús María,Córdoba
+221,Afiliado 0221,47,M,Plan C,2020-08-06,,Activo,7,42,San Francisco,Córdoba
+222,Afiliado 0222,83,F,Plan B,2022-07-08,2023-02-25,Baja,3,71,Córdoba Capital,Córdoba
+223,Afiliado 0223,60,M,Plan B,2023-03-21,,Activo,8,230,Córdoba Capital,Córdoba
+224,Afiliado 0224,19,F,Plan B,2020-11-20,2022-03-06,Baja,2,398,Villa María,Córdoba
+225,Afiliado 0225,6,M,Plan B,2022-08-31,,Activo,7,328,Bell Ville,Córdoba
+226,Afiliado 0226,63,M,Plan B,2020-09-14,2025-11-10,Baja,9,295,Alta Gracia,Córdoba
+227,Afiliado 0227,0,F,Plan B,2021-08-11,,Activo,4,293,Jesús María,Córdoba
+228,Afiliado 0228,10,F,Plan C,2022-02-06,,Activo,2,270,Córdoba Capital,Córdoba
+229,Afiliado 0229,5,F,Plan A,2024-05-18,,Activo,6,130,Córdoba Capital,Córdoba
+230,Afiliado 0230,44,M,Plan A,2024-01-02,,Activo,2,396,San Francisco,Córdoba
+231,Afiliado 0231,43,M,Plan A,2021-06-30,2024-08-21,Baja,8,357,Bell Ville,Córdoba
+232,Afiliado 0232,8,F,Plan B,2022-01-16,,Activo,1,151,Alta Gracia,Córdoba
+233,Afiliado 0233,5,F,Plan A,2020-06-28,,Activo,5,264,Jesús María,Córdoba
+234,Afiliado 0234,4,M,Plan A,2026-02-02,,Activo,5,183,Córdoba Capital,Córdoba
+235,Afiliado 0235,47,F,Plan B,2023-09-21,,Activo,7,381,Bell Ville,Córdoba
+236,Afiliado 0236,23,F,Plan A,2024-05-02,,Activo,8,189,Villa María,Córdoba
+237,Afiliado 0237,10,F,Plan B,2020-12-04,,Activo,10,93,Villa María,Córdoba
+238,Afiliado 0238,84,F,Plan A,2023-08-08,2024-08-07,Baja,5,229,Jesús María,Córdoba
+239,Afiliado 0239,44,F,Plan A,2021-11-13,,Activo,1,373,San Francisco,Córdoba
+240,Afiliado 0240,7,M,Plan B,2024-11-16,,Activo,7,187,Río Cuarto,Córdoba
+241,Afiliado 0241,4,M,Plan A,2020-05-07,2025-05-05,Baja,2,121,San Francisco,Córdoba
+242,Afiliado 0242,72,M,Plan A,2024-01-23,,Activo,10,79,Bell Ville,Córdoba
+243,Afiliado 0243,9,M,Plan B,2024-02-28,,Activo,9,188,Jesús María,Córdoba
+244,Afiliado 0244,31,M,Plan B,2023-07-11,,Activo,1,377,Río Cuarto,Córdoba
+245,Afiliado 0245,71,M,Plan A,2025-08-06,,Activo,5,397,Villa María,Córdoba
+246,Afiliado 0246,78,F,Plan B,2025-01-01,,Activo,8,103,Villa Carlos Paz,Córdoba
+247,Afiliado 0247,57,M,Plan A,2021-07-09,,Activo,8,45,San Francisco,Córdoba
+248,Afiliado 0248,70,F,Plan A,2023-11-24,,Activo,5,81,Río Cuarto,Córdoba
+249,Afiliado 0249,15,M,Plan B,2024-01-20,,Activo,3,122,Bell Ville,Córdoba
+250,Afiliado 0250,73,F,Plan B,2020-04-17,,Activo,8,283,Río Cuarto,Córdoba
+251,Afiliado 0251,61,F,Plan B,2020-12-19,2023-04-13,Baja,7,295,Villa Carlos Paz,Córdoba
+252,Afiliado 0252,82,M,Plan B,2021-05-28,,Activo,8,239,San Francisco,Córdoba
+253,Afiliado 0253,70,M,Plan C,2021-06-09,,Activo,3,222,Córdoba Capital,Córdoba
+254,Afiliado 0254,38,M,Plan B,2021-05-23,,Activo,3,166,Alta Gracia,Córdoba
+255,Afiliado 0255,66,F,Plan A,2023-11-18,,Activo,2,129,Alta Gracia,Córdoba
+256,Afiliado 0256,80,F,Plan B,2026-03-06,,Activo,10,274,Villa Carlos Paz,Córdoba
+257,Afiliado 0257,75,M,Plan A,2025-08-20,,Activo,3,338,San Francisco,Córdoba
+258,Afiliado 0258,3,M,Plan A,2020-06-17,,Activo,1,329,Villa María,Córdoba
+259,Afiliado 0259,53,M,Plan A,2022-05-13,,Activo,8,322,Villa María,Córdoba
+260,Afiliado 0260,51,F,Plan A,2023-05-22,,Activo,8,38,Córdoba Capital,Córdoba
+261,Afiliado 0261,61,F,Plan C,2021-10-09,,Activo,4,175,Río Cuarto,Córdoba
+262,Afiliado 0262,40,F,Plan B,2023-07-04,,Activo,7,67,San Francisco,Córdoba
+263,Afiliado 0263,40,M,Plan B,2025-10-10,,Activo,8,63,Villa María,Córdoba
+264,Afiliado 0264,12,M,Plan A,2025-01-15,,Activo,5,197,Jesús María,Córdoba
+265,Afiliado 0265,20,F,Plan A,2022-10-13,,Activo,10,370,San Francisco,Córdoba
+266,Afiliado 0266,63,F,Plan A,2022-02-16,,Activo,8,158,Bell Ville,Córdoba
+267,Afiliado 0267,64,F,Plan A,2020-04-04,2024-09-30,Baja,4,111,San Francisco,Córdoba
+268,Afiliado 0268,76,F,Plan B,2020-07-18,2026-03-06,Baja,5,275,Córdoba Capital,Córdoba
+269,Afiliado 0269,33,F,Plan B,2021-03-16,,Activo,7,188,Córdoba Capital,Córdoba
+270,Afiliado 0270,24,F,Plan B,2024-06-28,2026-02-23,Baja,9,148,Villa Carlos Paz,Córdoba
+271,Afiliado 0271,70,F,Plan A,2024-05-01,,Activo,10,349,Villa Carlos Paz,Córdoba
+272,Afiliado 0272,50,F,Plan C,2021-06-11,,Activo,6,286,San Francisco,Córdoba
+273,Afiliado 0273,65,F,Plan B,2021-08-13,,Activo,9,21,Córdoba Capital,Córdoba
+274,Afiliado 0274,60,F,Plan B,2020-06-08,2024-04-02,Baja,3,311,Río Cuarto,Córdoba
+275,Afiliado 0275,40,M,Plan B,2023-09-05,,Activo,7,316,Villa María,Córdoba
+276,Afiliado 0276,65,F,Plan A,2023-10-09,,Activo,10,154,Bell Ville,Córdoba
+277,Afiliado 0277,14,F,Plan A,2020-03-09,,Activo,10,158,Córdoba Capital,Córdoba
+278,Afiliado 0278,83,M,Plan A,2025-04-27,,Activo,1,299,Bell Ville,Córdoba
+279,Afiliado 0279,79,F,Plan B,2021-11-29,,Activo,3,349,Alta Gracia,Córdoba
+280,Afiliado 0280,14,M,Plan A,2020-05-09,,Activo,1,226,San Francisco,Córdoba
+281,Afiliado 0281,26,F,Plan A,2024-09-11,,Activo,9,397,Bell Ville,Córdoba
+282,Afiliado 0282,66,M,Plan A,2020-09-12,,Activo,9,167,Bell Ville,Córdoba
+283,Afiliado 0283,22,F,Plan A,2025-11-22,,Activo,9,176,San Francisco,Córdoba
+284,Afiliado 0284,24,M,Plan C,2022-12-18,,Activo,5,286,Villa María,Córdoba
+285,Afiliado 0285,38,F,Plan B,2022-07-10,,Activo,4,354,Bell Ville,Córdoba
+286,Afiliado 0286,71,F,Plan A,2023-07-22,,Activo,5,63,Jesús María,Córdoba
+287,Afiliado 0287,18,F,Plan A,2024-06-04,,Activo,1,148,Villa Carlos Paz,Córdoba
+288,Afiliado 0288,83,F,Plan A,2023-11-19,,Activo,8,110,Alta Gracia,Córdoba
+289,Afiliado 0289,71,F,Plan A,2026-01-15,,Activo,3,56,Alta Gracia,Córdoba
+290,Afiliado 0290,28,M,Plan A,2022-09-20,2025-10-11,Baja,1,52,Jesús María,Córdoba
+291,Afiliado 0291,12,M,Plan A,2023-09-14,,Activo,1,282,Río Cuarto,Córdoba
+292,Afiliado 0292,60,F,Plan A,2024-07-24,,Activo,4,388,Villa María,Córdoba
+293,Afiliado 0293,7,M,Plan B,2023-08-08,,Activo,10,119,Córdoba Capital,Córdoba
+294,Afiliado 0294,22,M,Plan B,2021-12-18,,Activo,7,254,Río Cuarto,Córdoba
+295,Afiliado 0295,1,F,Plan A,2023-03-31,,Activo,10,309,Villa Carlos Paz,Córdoba
+296,Afiliado 0296,82,F,Plan A,2023-10-04,,Activo,3,259,Bell Ville,Córdoba
+297,Afiliado 0297,14,F,Plan B,2023-01-22,,Activo,3,375,Bell Ville,Córdoba
+298,Afiliado 0298,1,F,Plan B,2022-11-19,,Activo,5,291,Alta Gracia,Córdoba
+299,Afiliado 0299,81,F,Plan C,2021-12-19,,Activo,7,264,San Francisco,Córdoba
+300,Afiliado 0300,12,M,Plan B,2020-12-21,,Activo,3,245,San Francisco,Córdoba
+301,Afiliado 0301,30,F,Plan A,2022-10-13,2025-01-05,Baja,5,169,Villa María,Córdoba
+302,Afiliado 0302,46,M,Plan A,2020-02-16,,Activo,1,342,Villa Carlos Paz,Córdoba
+303,Afiliado 0303,51,F,Plan B,2025-03-21,,Activo,2,328,Villa María,Córdoba
+304,Afiliado 0304,28,M,Plan A,2024-02-14,,Activo,8,79,Bell Ville,Córdoba
+305,Afiliado 0305,70,F,Plan B,2024-03-10,,Activo,9,341,Alta Gracia,Córdoba
+306,Afiliado 0306,76,M,Plan C,2022-10-10,,Activo,9,229,San Francisco,Córdoba
+307,Afiliado 0307,14,M,Plan B,2020-11-15,,Activo,9,259,Alta Gracia,Córdoba
+308,Afiliado 0308,66,F,Plan A,2026-01-07,2026-02-26,Baja,2,349,Alta Gracia,Córdoba
+309,Afiliado 0309,57,M,Plan B,2025-06-25,2025-12-02,Baja,8,68,Jesús María,Córdoba
+310,Afiliado 0310,71,F,Plan A,2025-02-14,,Activo,5,371,Córdoba Capital,Córdoba
+311,Afiliado 0311,0,M,Plan B,2024-06-09,,Activo,10,38,Córdoba Capital,Córdoba
+312,Afiliado 0312,8,M,Plan C,2024-10-01,,Activo,2,242,Córdoba Capital,Córdoba
+313,Afiliado 0313,17,F,Plan A,2023-03-21,,Activo,6,196,Bell Ville,Córdoba
+314,Afiliado 0314,84,M,Plan C,2024-03-26,,Activo,6,61,Río Cuarto,Córdoba
+315,Afiliado 0315,16,M,Plan C,2026-01-09,,Activo,1,388,Córdoba Capital,Córdoba
+316,Afiliado 0316,69,F,Plan A,2023-05-07,,Activo,9,195,Alta Gracia,Córdoba
+317,Afiliado 0317,19,F,Plan A,2022-10-10,,Activo,4,372,Villa Carlos Paz,Córdoba
+318,Afiliado 0318,53,M,Plan A,2020-05-11,,Activo,4,106,Villa Carlos Paz,Córdoba
+319,Afiliado 0319,57,M,Plan A,2021-02-17,,Activo,4,380,Córdoba Capital,Córdoba
+320,Afiliado 0320,69,M,Plan A,2024-07-05,,Activo,1,72,Villa María,Córdoba
+321,Afiliado 0321,73,F,Plan B,2022-08-17,,Activo,10,307,San Francisco,Córdoba
+322,Afiliado 0322,18,M,Plan A,2022-08-28,,Activo,7,154,Villa María,Córdoba
+323,Afiliado 0323,75,M,Plan A,2020-09-06,,Activo,7,285,Bell Ville,Córdoba
+324,Afiliado 0324,82,F,Plan B,2020-07-11,,Activo,9,164,Jesús María,Córdoba
+325,Afiliado 0325,23,F,Plan A,2024-07-30,2025-09-18,Baja,4,116,Villa María,Córdoba
+326,Afiliado 0326,7,F,Plan B,2021-08-14,,Activo,7,286,Río Cuarto,Córdoba
+327,Afiliado 0327,26,F,Plan A,2024-05-09,,Activo,2,231,San Francisco,Córdoba
+328,Afiliado 0328,24,M,Plan A,2021-01-13,,Activo,5,194,Córdoba Capital,Córdoba
+329,Afiliado 0329,75,M,Plan B,2020-10-25,,Activo,8,107,San Francisco,Córdoba
+330,Afiliado 0330,1,M,Plan B,2023-05-26,,Activo,4,380,Villa Carlos Paz,Córdoba
+331,Afiliado 0331,77,M,Plan C,2025-05-15,,Activo,7,123,San Francisco,Córdoba
+332,Afiliado 0332,68,F,Plan B,2023-03-05,,Activo,5,134,San Francisco,Córdoba
+333,Afiliado 0333,59,M,Plan B,2025-10-01,,Activo,8,390,San Francisco,Córdoba
+334,Afiliado 0334,52,M,Plan A,2022-04-12,,Activo,10,114,Río Cuarto,Córdoba
+335,Afiliado 0335,74,F,Plan A,2020-03-07,,Activo,5,79,Alta Gracia,Córdoba
+336,Afiliado 0336,72,M,Plan B,2023-09-13,,Activo,8,282,San Francisco,Córdoba
+337,Afiliado 0337,62,F,Plan B,2022-11-20,,Activo,8,87,San Francisco,Córdoba
+338,Afiliado 0338,62,M,Plan C,2021-11-24,2025-01-16,Baja,9,329,Córdoba Capital,Córdoba
+339,Afiliado 0339,85,M,Plan A,2025-11-16,2025-12-25,Baja,1,212,Río Cuarto,Córdoba
+340,Afiliado 0340,1,M,Plan A,2022-08-05,2023-07-10,Baja,9,234,San Francisco,Córdoba
+341,Afiliado 0341,85,F,Plan B,2020-09-04,,Activo,8,9,Córdoba Capital,Córdoba
+342,Afiliado 0342,1,M,Plan A,2025-12-19,,Activo,9,370,Villa María,Córdoba
+343,Afiliado 0343,2,F,Plan C,2026-01-03,,Activo,3,55,Villa Carlos Paz,Córdoba
+344,Afiliado 0344,79,F,Plan C,2025-11-17,2026-01-10,Baja,6,137,Jesús María,Córdoba
+345,Afiliado 0345,51,F,Plan A,2020-11-19,,Activo,10,125,Alta Gracia,Córdoba
+346,Afiliado 0346,10,M,Plan B,2023-05-13,,Activo,2,208,Jesús María,Córdoba
+347,Afiliado 0347,7,M,Plan B,2024-03-24,,Activo,3,43,Bell Ville,Córdoba
+348,Afiliado 0348,42,M,Plan A,2024-11-12,,Activo,9,22,Alta Gracia,Córdoba
+349,Afiliado 0349,72,F,Plan C,2022-05-15,,Activo,5,24,Villa Carlos Paz,Córdoba
+350,Afiliado 0350,72,M,Plan B,2023-02-22,,Activo,3,162,Córdoba Capital,Córdoba
+351,Afiliado 0351,50,M,Plan B,2022-04-28,,Activo,5,84,Alta Gracia,Córdoba
+352,Afiliado 0352,69,F,Plan A,2024-05-12,,Activo,7,387,Río Cuarto,Córdoba
+353,Afiliado 0353,44,M,Plan C,2020-11-17,,Activo,2,224,Alta Gracia,Córdoba
+354,Afiliado 0354,78,F,Plan A,2020-11-07,,Activo,6,16,Villa María,Córdoba
+355,Afiliado 0355,45,F,Plan A,2025-01-19,,Activo,7,96,Jesús María,Córdoba
+356,Afiliado 0356,37,M,Plan C,2020-12-17,,Activo,2,43,Villa María,Córdoba
+357,Afiliado 0357,81,M,Plan A,2021-09-23,,Activo,7,163,San Francisco,Córdoba
+358,Afiliado 0358,56,F,Plan A,2021-03-12,2023-01-02,Baja,5,53,Río Cuarto,Córdoba
+359,Afiliado 0359,57,F,Plan C,2020-12-23,,Activo,2,14,Villa Carlos Paz,Córdoba
+360,Afiliado 0360,76,F,Plan C,2023-12-20,,Activo,7,7,Villa María,Córdoba
+361,Afiliado 0361,10,M,Plan B,2024-08-21,,Activo,10,267,Río Cuarto,Córdoba
+362,Afiliado 0362,34,F,Plan B,2024-04-08,,Activo,5,253,Río Cuarto,Córdoba
+363,Afiliado 0363,35,F,Plan A,2020-09-16,,Activo,5,248,Villa Carlos Paz,Córdoba
+364,Afiliado 0364,31,F,Plan A,2024-01-19,,Activo,10,316,Alta Gracia,Córdoba
+365,Afiliado 0365,0,F,Plan A,2025-02-18,2025-08-22,Baja,6,318,Jesús María,Córdoba
+366,Afiliado 0366,55,M,Plan B,2023-09-11,,Activo,5,165,Alta Gracia,Córdoba
+367,Afiliado 0367,50,F,Plan B,2025-05-16,,Activo,5,377,Bell Ville,Córdoba
+368,Afiliado 0368,35,F,Plan B,2022-09-19,,Activo,6,59,Alta Gracia,Córdoba
+369,Afiliado 0369,70,M,Plan B,2026-02-12,,Activo,8,363,Alta Gracia,Córdoba
+370,Afiliado 0370,8,F,Plan A,2024-11-30,,Activo,8,72,Villa María,Córdoba
+371,Afiliado 0371,19,F,Plan A,2022-09-18,,Activo,7,38,Bell Ville,Córdoba
+372,Afiliado 0372,68,F,Plan A,2025-05-16,,Activo,9,19,San Francisco,Córdoba
+373,Afiliado 0373,10,M,Plan B,2026-01-08,,Activo,4,337,San Francisco,Córdoba
+374,Afiliado 0374,5,F,Plan A,2021-11-12,,Activo,6,221,Villa Carlos Paz,Córdoba
+375,Afiliado 0375,65,M,Plan C,2020-02-13,2022-09-09,Baja,8,192,Jesús María,Córdoba
+376,Afiliado 0376,75,M,Plan A,2025-03-11,,Activo,6,13,Bell Ville,Córdoba
+377,Afiliado 0377,10,M,Plan A,2021-03-04,,Activo,3,179,Villa María,Córdoba
+378,Afiliado 0378,26,F,Plan A,2023-11-06,,Activo,6,244,Villa Carlos Paz,Córdoba
+379,Afiliado 0379,57,F,Plan B,2024-11-29,,Activo,2,154,Córdoba Capital,Córdoba
+380,Afiliado 0380,82,M,Plan B,2021-04-16,2023-04-18,Baja,3,380,Alta Gracia,Córdoba
+381,Afiliado 0381,20,F,Plan A,2025-10-14,,Activo,9,219,Bell Ville,Córdoba
+382,Afiliado 0382,80,M,Plan A,2022-08-07,,Activo,3,328,Jesús María,Córdoba
+383,Afiliado 0383,25,F,Plan B,2024-06-08,2026-03-28,Baja,10,220,Jesús María,Córdoba
+384,Afiliado 0384,26,F,Plan A,2020-01-19,,Activo,2,296,Villa Carlos Paz,Córdoba
+385,Afiliado 0385,41,M,Plan B,2026-01-08,,Activo,8,59,Villa María,Córdoba
+386,Afiliado 0386,81,F,Plan B,2025-06-27,,Activo,10,199,Jesús María,Córdoba
+387,Afiliado 0387,58,M,Plan A,2021-04-12,,Activo,5,315,Villa Carlos Paz,Córdoba
+388,Afiliado 0388,30,F,Plan A,2021-07-02,,Activo,2,94,San Francisco,Córdoba
+389,Afiliado 0389,53,M,Plan C,2021-08-02,,Activo,10,197,Jesús María,Córdoba
+390,Afiliado 0390,68,M,Plan A,2022-01-30,,Activo,9,86,Bell Ville,Córdoba
+391,Afiliado 0391,57,M,Plan A,2023-03-29,2025-01-31,Baja,6,5,Bell Ville,Córdoba
+392,Afiliado 0392,49,F,Plan B,2021-07-13,,Activo,7,351,Bell Ville,Córdoba
+393,Afiliado 0393,56,F,Plan C,2024-08-29,,Activo,3,43,Córdoba Capital,Córdoba
+394,Afiliado 0394,35,M,Plan C,2022-06-22,,Activo,9,148,Río Cuarto,Córdoba
+395,Afiliado 0395,63,M,Plan B,2025-02-16,,Activo,10,59,Villa María,Córdoba
+396,Afiliado 0396,46,M,Plan A,2026-02-02,,Activo,8,280,Alta Gracia,Córdoba
+397,Afiliado 0397,83,M,Plan A,2024-10-07,2026-01-04,Baja,5,17,Bell Ville,Córdoba
+398,Afiliado 0398,11,F,Plan B,2022-12-12,,Activo,2,398,Alta Gracia,Córdoba
+399,Afiliado 0399,75,F,Plan B,2022-05-09,,Activo,10,324,Jesús María,Córdoba
+400,Afiliado 0400,26,M,Plan A,2021-11-10,,Activo,1,292,San Francisco,Córdoba
+401,Afiliado 0401,68,M,Plan C,2025-12-20,,Activo,6,361,Villa María,Córdoba
+402,Afiliado 0402,65,M,Plan A,2023-03-31,,Activo,3,385,Jesús María,Córdoba
+403,Afiliado 0403,83,M,Plan A,2020-08-30,,Activo,3,128,Río Cuarto,Córdoba
+404,Afiliado 0404,50,F,Plan A,2023-08-12,,Activo,3,296,Villa María,Córdoba
+405,Afiliado 0405,9,M,Plan A,2024-08-23,,Activo,7,264,Villa María,Córdoba
+406,Afiliado 0406,62,F,Plan A,2024-02-20,,Activo,10,2,Villa Carlos Paz,Córdoba
+407,Afiliado 0407,45,M,Plan A,2025-02-20,,Activo,9,204,Alta Gracia,Córdoba
+408,Afiliado 0408,63,F,Plan A,2024-10-25,,Activo,6,146,San Francisco,Córdoba
+409,Afiliado 0409,72,F,Plan B,2026-02-19,,Activo,6,350,Córdoba Capital,Córdoba
+410,Afiliado 0410,2,M,Plan B,2020-07-07,2025-10-01,Baja,3,226,Bell Ville,Córdoba
+411,Afiliado 0411,54,M,Plan B,2020-01-03,,Activo,3,333,Villa María,Córdoba
+412,Afiliado 0412,35,M,Plan C,2021-10-13,,Activo,6,129,Villa Carlos Paz,Córdoba
+413,Afiliado 0413,83,M,Plan A,2024-03-03,,Activo,1,203,Villa María,Córdoba
+414,Afiliado 0414,11,M,Plan A,2022-08-17,,Activo,1,110,Bell Ville,Córdoba
+415,Afiliado 0415,66,F,Plan C,2020-11-15,2022-03-23,Baja,1,5,San Francisco,Córdoba
+416,Afiliado 0416,54,M,Plan A,2021-05-08,,Activo,8,37,Alta Gracia,Córdoba
+417,Afiliado 0417,13,F,Plan C,2024-04-18,2024-08-30,Baja,6,154,Río Cuarto,Córdoba
+418,Afiliado 0418,17,M,Plan A,2024-04-16,,Activo,2,272,Córdoba Capital,Córdoba
+419,Afiliado 0419,27,M,Plan C,2021-11-03,,Activo,7,316,Bell Ville,Córdoba
+420,Afiliado 0420,17,M,Plan A,2022-06-08,2023-01-29,Baja,10,374,Jesús María,Córdoba
+421,Afiliado 0421,40,M,Plan C,2023-12-10,,Activo,4,142,Villa Carlos Paz,Córdoba
+422,Afiliado 0422,76,F,Plan B,2022-10-13,,Activo,1,338,Villa María,Córdoba
+423,Afiliado 0423,65,M,Plan C,2022-04-21,,Activo,7,152,Córdoba Capital,Córdoba
+424,Afiliado 0424,14,M,Plan A,2022-09-07,,Activo,8,327,Villa Carlos Paz,Córdoba
+425,Afiliado 0425,1,F,Plan B,2025-12-03,,Activo,6,68,Jesús María,Córdoba
+426,Afiliado 0426,22,F,Plan C,2024-09-19,,Activo,2,9,Villa Carlos Paz,Córdoba
+427,Afiliado 0427,5,M,Plan B,2020-02-26,,Activo,7,260,Villa María,Córdoba
+428,Afiliado 0428,54,F,Plan B,2025-08-14,,Activo,2,328,Río Cuarto,Córdoba
+429,Afiliado 0429,65,M,Plan B,2023-02-10,2023-08-20,Baja,3,275,San Francisco,Córdoba
+430,Afiliado 0430,83,M,Plan A,2024-05-19,,Activo,5,358,Jesús María,Córdoba
+431,Afiliado 0431,55,M,Plan B,2022-09-04,2023-03-29,Baja,8,314,Córdoba Capital,Córdoba
+432,Afiliado 0432,84,M,Plan B,2023-06-20,,Activo,2,7,Río Cuarto,Córdoba
+433,Afiliado 0433,44,F,Plan C,2020-02-16,,Activo,3,191,Río Cuarto,Córdoba
+434,Afiliado 0434,15,M,Plan A,2023-01-05,,Activo,6,220,Villa María,Córdoba
+435,Afiliado 0435,73,M,Plan A,2025-11-15,2026-03-16,Baja,8,234,San Francisco,Córdoba
+436,Afiliado 0436,72,M,Plan C,2020-08-15,,Activo,6,81,Villa María,Córdoba
+437,Afiliado 0437,14,M,Plan C,2021-02-25,,Activo,9,2,Córdoba Capital,Córdoba
+438,Afiliado 0438,60,F,Plan A,2020-02-20,,Activo,7,77,Río Cuarto,Córdoba
+439,Afiliado 0439,83,F,Plan B,2020-05-24,,Activo,4,165,Alta Gracia,Córdoba
+440,Afiliado 0440,40,F,Plan A,2024-08-31,,Activo,2,293,San Francisco,Córdoba
+441,Afiliado 0441,6,M,Plan A,2021-05-04,,Activo,4,265,Córdoba Capital,Córdoba
+442,Afiliado 0442,36,F,Plan A,2024-06-30,2025-11-18,Baja,6,45,Bell Ville,Córdoba
+443,Afiliado 0443,37,F,Plan A,2020-02-02,,Activo,10,125,Bell Ville,Córdoba
+444,Afiliado 0444,63,M,Plan B,2024-02-17,,Activo,9,390,Alta Gracia,Córdoba
+445,Afiliado 0445,3,M,Plan A,2021-09-08,2024-01-25,Baja,9,178,Córdoba Capital,Córdoba
+446,Afiliado 0446,48,F,Plan C,2023-10-04,2025-09-06,Baja,2,106,Alta Gracia,Córdoba
+447,Afiliado 0447,7,M,Plan C,2024-09-15,,Activo,5,48,Córdoba Capital,Córdoba
+448,Afiliado 0448,66,F,Plan B,2022-08-06,,Activo,6,235,Villa Carlos Paz,Córdoba
+449,Afiliado 0449,81,F,Plan B,2021-01-26,,Activo,2,304,Córdoba Capital,Córdoba
+450,Afiliado 0450,16,M,Plan A,2024-11-16,,Activo,5,134,San Francisco,Córdoba
+451,Afiliado 0451,41,F,Plan B,2024-05-28,,Activo,8,140,Alta Gracia,Córdoba
+452,Afiliado 0452,17,M,Plan B,2020-11-01,,Activo,3,55,Río Cuarto,Córdoba
+453,Afiliado 0453,52,M,Plan A,2025-01-15,,Activo,9,184,Alta Gracia,Córdoba
+454,Afiliado 0454,33,M,Plan C,2025-01-25,,Activo,2,81,Villa María,Córdoba
+455,Afiliado 0455,41,M,Plan B,2020-06-14,,Activo,2,365,Alta Gracia,Córdoba
+456,Afiliado 0456,6,F,Plan C,2023-12-28,,Activo,5,90,Córdoba Capital,Córdoba
+457,Afiliado 0457,71,M,Plan B,2024-07-14,,Activo,2,237,Villa Carlos Paz,Córdoba
+458,Afiliado 0458,28,M,Plan B,2021-07-26,2021-12-29,Baja,4,206,San Francisco,Córdoba
+459,Afiliado 0459,33,M,Plan A,2020-12-10,,Activo,1,34,Alta Gracia,Córdoba
+460,Afiliado 0460,11,F,Plan C,2024-12-21,,Activo,2,22,Bell Ville,Córdoba
+461,Afiliado 0461,73,F,Plan C,2020-07-26,,Activo,7,255,Córdoba Capital,Córdoba
+462,Afiliado 0462,22,F,Plan A,2024-04-16,,Activo,4,96,Villa María,Córdoba
+463,Afiliado 0463,19,M,Plan A,2023-02-20,,Activo,10,318,Alta Gracia,Córdoba
+464,Afiliado 0464,70,F,Plan A,2023-04-23,,Activo,1,45,Villa María,Córdoba
+465,Afiliado 0465,82,M,Plan B,2024-04-17,2024-12-07,Baja,9,10,Jesús María,Córdoba
+466,Afiliado 0466,62,F,Plan C,2024-01-10,,Activo,10,258,San Francisco,Córdoba
+467,Afiliado 0467,3,F,Plan A,2024-05-09,,Activo,10,113,Córdoba Capital,Córdoba
+468,Afiliado 0468,67,F,Plan B,2023-02-24,2025-11-16,Baja,10,120,Río Cuarto,Córdoba
+469,Afiliado 0469,30,F,Plan A,2021-02-14,,Activo,9,378,Córdoba Capital,Córdoba
+470,Afiliado 0470,49,F,Plan C,2022-06-17,,Activo,3,91,Alta Gracia,Córdoba
+471,Afiliado 0471,45,M,Plan B,2023-07-26,,Activo,6,291,Río Cuarto,Córdoba
+472,Afiliado 0472,63,F,Plan B,2022-02-10,,Activo,3,252,Córdoba Capital,Córdoba
+473,Afiliado 0473,28,M,Plan A,2021-01-04,2024-06-19,Baja,9,245,Córdoba Capital,Córdoba
+474,Afiliado 0474,25,M,Plan A,2023-09-20,,Activo,6,368,Río Cuarto,Córdoba
+475,Afiliado 0475,75,M,Plan A,2023-08-18,2024-02-15,Baja,2,270,San Francisco,Córdoba
+476,Afiliado 0476,84,F,Plan A,2020-10-24,,Activo,10,52,San Francisco,Córdoba
+477,Afiliado 0477,20,F,Plan C,2023-05-21,,Activo,8,333,San Francisco,Córdoba
+478,Afiliado 0478,71,F,Plan B,2021-12-14,,Activo,4,341,Río Cuarto,Córdoba
+479,Afiliado 0479,37,M,Plan C,2024-03-29,,Activo,3,374,Córdoba Capital,Córdoba
+480,Afiliado 0480,72,M,Plan C,2024-05-22,,Activo,3,309,San Francisco,Córdoba
+481,Afiliado 0481,13,F,Plan B,2022-06-23,,Activo,3,170,Villa Carlos Paz,Córdoba
+482,Afiliado 0482,40,M,Plan B,2022-09-01,,Activo,2,363,San Francisco,Córdoba
+483,Afiliado 0483,31,M,Plan C,2025-01-03,2025-05-20,Baja,6,132,Villa Carlos Paz,Córdoba
+484,Afiliado 0484,53,M,Plan B,2020-01-06,2025-01-03,Baja,7,253,Jesús María,Córdoba
+485,Afiliado 0485,12,F,Plan A,2023-12-09,,Activo,10,334,Alta Gracia,Córdoba
+486,Afiliado 0486,4,F,Plan A,2021-10-28,,Activo,1,164,Villa María,Córdoba
+487,Afiliado 0487,48,M,Plan A,2021-03-04,2022-03-17,Baja,2,281,Villa Carlos Paz,Córdoba
+488,Afiliado 0488,78,F,Plan C,2023-10-16,,Activo,1,221,Río Cuarto,Córdoba
+489,Afiliado 0489,12,F,Plan B,2024-11-13,,Activo,4,98,Jesús María,Córdoba
+490,Afiliado 0490,69,F,Plan A,2026-03-19,,Activo,5,153,Alta Gracia,Córdoba
+491,Afiliado 0491,70,F,Plan B,2021-01-27,2024-05-11,Baja,3,28,San Francisco,Córdoba
+492,Afiliado 0492,37,F,Plan B,2020-01-16,,Activo,4,50,Córdoba Capital,Córdoba
+493,Afiliado 0493,37,M,Plan A,2022-04-27,,Activo,8,60,Villa María,Córdoba
+494,Afiliado 0494,84,F,Plan A,2024-06-16,,Activo,2,329,Jesús María,Córdoba
+495,Afiliado 0495,48,F,Plan B,2022-01-27,,Activo,3,229,Córdoba Capital,Córdoba
+496,Afiliado 0496,33,M,Plan B,2022-12-14,,Activo,5,289,Córdoba Capital,Córdoba
+497,Afiliado 0497,85,M,Plan B,2021-09-11,,Activo,2,343,San Francisco,Córdoba
+498,Afiliado 0498,75,M,Plan B,2026-01-26,,Activo,9,32,Jesús María,Córdoba
+499,Afiliado 0499,68,F,Plan C,2025-11-10,,Activo,10,121,Bell Ville,Córdoba
+500,Afiliado 0500,64,M,Plan B,2023-05-09,2023-08-18,Baja,2,388,Bell Ville,Córdoba
+501,Afiliado 0501,21,M,Plan B,2021-12-09,,Activo,4,65,Córdoba Capital,Córdoba
+502,Afiliado 0502,25,M,Plan C,2024-09-30,2026-01-18,Baja,10,133,San Francisco,Córdoba
+503,Afiliado 0503,50,F,Plan A,2020-10-01,2023-12-14,Baja,5,267,Bell Ville,Córdoba
+504,Afiliado 0504,79,F,Plan A,2020-02-20,,Activo,2,213,Río Cuarto,Córdoba
+505,Afiliado 0505,74,M,Plan A,2021-08-30,,Activo,2,289,Villa Carlos Paz,Córdoba
+506,Afiliado 0506,44,F,Plan B,2023-03-17,,Activo,5,197,Bell Ville,Córdoba
+507,Afiliado 0507,51,M,Plan B,2025-04-21,2025-10-09,Baja,10,312,Jesús María,Córdoba
+508,Afiliado 0508,42,M,Plan B,2020-06-07,,Activo,1,382,Bell Ville,Córdoba
+509,Afiliado 0509,2,F,Plan A,2023-01-05,,Activo,5,160,Villa María,Córdoba
+510,Afiliado 0510,12,M,Plan A,2025-07-06,,Activo,3,154,Bell Ville,Córdoba
+511,Afiliado 0511,53,M,Plan A,2023-08-07,,Activo,4,227,Alta Gracia,Córdoba
+512,Afiliado 0512,66,F,Plan A,2024-07-25,,Activo,1,264,Río Cuarto,Córdoba
+513,Afiliado 0513,64,F,Plan B,2020-09-25,,Activo,3,400,Córdoba Capital,Córdoba
+514,Afiliado 0514,25,M,Plan A,2021-12-12,,Activo,4,17,Bell Ville,Córdoba
+515,Afiliado 0515,25,F,Plan A,2020-07-26,,Activo,6,238,Jesús María,Córdoba
+516,Afiliado 0516,30,F,Plan C,2021-05-22,,Activo,8,305,Bell Ville,Córdoba
+517,Afiliado 0517,60,F,Plan A,2021-12-28,,Activo,6,84,Villa María,Córdoba
+518,Afiliado 0518,49,M,Plan B,2021-01-05,,Activo,3,293,Alta Gracia,Córdoba
+519,Afiliado 0519,26,F,Plan B,2022-06-25,,Activo,7,263,Córdoba Capital,Córdoba
+520,Afiliado 0520,16,M,Plan A,2020-02-06,,Activo,10,5,Alta Gracia,Córdoba
+521,Afiliado 0521,39,F,Plan B,2022-10-30,,Activo,7,193,San Francisco,Córdoba
+522,Afiliado 0522,59,F,Plan C,2025-02-23,,Activo,9,320,Jesús María,Córdoba
+523,Afiliado 0523,47,F,Plan C,2021-02-23,2024-12-10,Baja,5,351,Villa Carlos Paz,Córdoba
+524,Afiliado 0524,81,F,Plan A,2025-05-27,2025-11-14,Baja,5,134,Villa María,Córdoba
+525,Afiliado 0525,7,F,Plan C,2022-02-10,2023-07-17,Baja,6,349,Río Cuarto,Córdoba
+526,Afiliado 0526,37,F,Plan A,2020-04-14,,Activo,7,208,Jesús María,Córdoba
+527,Afiliado 0527,73,M,Plan A,2020-05-24,,Activo,6,372,Alta Gracia,Córdoba
+528,Afiliado 0528,60,F,Plan A,2025-12-29,,Activo,9,154,Río Cuarto,Córdoba
+529,Afiliado 0529,60,M,Plan C,2022-01-11,,Activo,5,372,Río Cuarto,Córdoba
+530,Afiliado 0530,28,F,Plan A,2023-10-06,,Activo,4,382,Villa María,Córdoba
+531,Afiliado 0531,42,F,Plan A,2024-09-18,,Activo,5,300,Villa María,Córdoba
+532,Afiliado 0532,60,M,Plan B,2025-03-14,,Activo,10,298,Villa Carlos Paz,Córdoba
+533,Afiliado 0533,64,M,Plan A,2025-04-18,,Activo,7,272,Villa María,Córdoba
+534,Afiliado 0534,17,M,Plan A,2024-08-19,2025-02-19,Baja,6,210,Bell Ville,Córdoba
+535,Afiliado 0535,23,M,Plan A,2021-08-09,,Activo,8,171,Río Cuarto,Córdoba
+536,Afiliado 0536,0,F,Plan A,2023-07-07,,Activo,5,108,Río Cuarto,Córdoba
+537,Afiliado 0537,11,M,Plan A,2021-10-10,,Activo,10,223,Jesús María,Córdoba
+538,Afiliado 0538,61,F,Plan A,2024-07-10,,Activo,1,20,Alta Gracia,Córdoba
+539,Afiliado 0539,41,M,Plan B,2024-03-08,,Activo,1,347,Córdoba Capital,Córdoba
+540,Afiliado 0540,44,F,Plan A,2022-10-16,,Activo,3,53,Jesús María,Córdoba
+541,Afiliado 0541,21,M,Plan A,2025-08-23,,Activo,1,153,Villa María,Córdoba
+542,Afiliado 0542,76,F,Plan C,2025-02-10,,Activo,7,352,Río Cuarto,Córdoba
+543,Afiliado 0543,62,F,Plan A,2023-11-04,,Activo,4,85,Jesús María,Córdoba
+544,Afiliado 0544,16,M,Plan B,2020-03-19,,Activo,1,302,Río Cuarto,Córdoba
+545,Afiliado 0545,83,M,Plan A,2021-05-19,,Activo,7,328,Villa María,Córdoba
+546,Afiliado 0546,76,M,Plan A,2025-12-30,,Activo,2,335,Córdoba Capital,Córdoba
+547,Afiliado 0547,53,F,Plan A,2020-07-16,,Activo,7,64,Villa María,Córdoba
+548,Afiliado 0548,26,M,Plan A,2025-04-27,,Activo,5,216,Villa Carlos Paz,Córdoba
+549,Afiliado 0549,77,M,Plan A,2025-11-01,,Activo,7,54,Villa Carlos Paz,Córdoba
+550,Afiliado 0550,63,M,Plan A,2023-03-03,2023-11-05,Baja,10,103,Villa María,Córdoba
+551,Afiliado 0551,45,F,Plan A,2025-11-12,,Activo,5,83,Córdoba Capital,Córdoba
+552,Afiliado 0552,26,F,Plan A,2026-02-23,,Activo,6,121,Córdoba Capital,Córdoba
+553,Afiliado 0553,14,F,Plan A,2020-02-22,,Activo,3,47,Villa Carlos Paz,Córdoba
+554,Afiliado 0554,82,M,Plan A,2021-02-18,,Activo,8,152,Villa María,Córdoba
+555,Afiliado 0555,5,F,Plan A,2025-03-16,2025-07-13,Baja,6,347,San Francisco,Córdoba
+556,Afiliado 0556,12,M,Plan B,2024-10-10,,Activo,1,71,Río Cuarto,Córdoba
+557,Afiliado 0557,56,F,Plan B,2023-09-08,,Activo,2,191,San Francisco,Córdoba
+558,Afiliado 0558,58,F,Plan A,2022-01-19,2024-05-17,Baja,7,354,Bell Ville,Córdoba
+559,Afiliado 0559,21,M,Plan B,2024-09-23,,Activo,3,357,Córdoba Capital,Córdoba
+560,Afiliado 0560,61,F,Plan B,2021-10-14,2025-03-06,Baja,3,313,Jesús María,Córdoba
+561,Afiliado 0561,16,F,Plan A,2024-01-08,,Activo,8,58,Jesús María,Córdoba
+562,Afiliado 0562,83,F,Plan C,2024-12-10,2025-05-22,Baja,1,361,Alta Gracia,Córdoba
+563,Afiliado 0563,79,M,Plan C,2023-10-17,,Activo,7,339,Alta Gracia,Córdoba
+564,Afiliado 0564,82,F,Plan A,2025-05-27,,Activo,3,286,Córdoba Capital,Córdoba
+565,Afiliado 0565,20,F,Plan A,2020-02-17,,Activo,8,85,Villa Carlos Paz,Córdoba
+566,Afiliado 0566,42,F,Plan B,2025-07-06,,Activo,1,260,Alta Gracia,Córdoba
+567,Afiliado 0567,51,M,Plan B,2026-03-04,,Activo,2,236,Bell Ville,Córdoba
+568,Afiliado 0568,57,F,Plan A,2025-01-09,2025-10-21,Baja,2,255,Córdoba Capital,Córdoba
+569,Afiliado 0569,4,M,Plan A,2021-02-24,,Activo,2,310,Villa María,Córdoba
+570,Afiliado 0570,83,F,Plan A,2025-09-13,,Activo,6,187,Córdoba Capital,Córdoba
+571,Afiliado 0571,42,F,Plan A,2022-07-02,,Activo,6,367,Bell Ville,Córdoba
+572,Afiliado 0572,28,M,Plan B,2021-04-12,2025-01-20,Baja,6,182,Villa María,Córdoba
+573,Afiliado 0573,13,M,Plan A,2026-02-21,,Activo,3,253,Río Cuarto,Córdoba
+574,Afiliado 0574,24,M,Plan A,2024-08-03,2025-03-21,Baja,7,111,Bell Ville,Córdoba
+575,Afiliado 0575,13,F,Plan B,2022-02-19,,Activo,1,325,Villa Carlos Paz,Córdoba
+576,Afiliado 0576,75,M,Plan A,2025-01-19,,Activo,8,3,Córdoba Capital,Córdoba
+577,Afiliado 0577,74,F,Plan A,2026-03-16,,Activo,9,400,Río Cuarto,Córdoba
+578,Afiliado 0578,16,M,Plan B,2021-12-12,,Activo,7,337,San Francisco,Córdoba
+579,Afiliado 0579,53,M,Plan C,2025-08-26,,Activo,5,204,San Francisco,Córdoba
+580,Afiliado 0580,17,M,Plan B,2023-04-19,,Activo,7,309,Villa María,Córdoba
+581,Afiliado 0581,70,M,Plan B,2026-02-21,,Activo,4,108,Villa María,Córdoba
+582,Afiliado 0582,16,M,Plan A,2023-11-15,,Activo,9,278,San Francisco,Córdoba
+583,Afiliado 0583,71,F,Plan A,2021-04-17,,Activo,10,293,Jesús María,Córdoba
+584,Afiliado 0584,54,M,Plan B,2025-12-26,,Activo,9,55,Córdoba Capital,Córdoba
+585,Afiliado 0585,7,M,Plan A,2024-04-09,2026-03-26,Baja,5,385,Río Cuarto,Córdoba
+586,Afiliado 0586,18,M,Plan A,2023-03-19,,Activo,5,105,Córdoba Capital,Córdoba
+587,Afiliado 0587,13,M,Plan A,2024-01-09,,Activo,9,200,Alta Gracia,Córdoba
+588,Afiliado 0588,36,M,Plan A,2025-09-23,,Activo,7,199,Jesús María,Córdoba
+589,Afiliado 0589,6,M,Plan A,2023-07-04,,Activo,5,104,Bell Ville,Córdoba
+590,Afiliado 0590,82,F,Plan A,2022-07-12,,Activo,10,280,Alta Gracia,Córdoba
+591,Afiliado 0591,22,M,Plan A,2022-03-03,,Activo,3,89,Villa Carlos Paz,Córdoba
+592,Afiliado 0592,71,F,Plan A,2024-03-25,2025-02-03,Baja,3,83,Villa María,Córdoba
+593,Afiliado 0593,19,M,Plan C,2020-01-24,,Activo,3,166,Córdoba Capital,Córdoba
+594,Afiliado 0594,73,F,Plan B,2023-05-18,,Activo,2,363,San Francisco,Córdoba
+595,Afiliado 0595,23,M,Plan B,2025-11-22,,Activo,9,82,Jesús María,Córdoba
+596,Afiliado 0596,11,F,Plan B,2026-02-02,,Activo,4,110,San Francisco,Córdoba
+597,Afiliado 0597,27,F,Plan A,2023-09-18,,Activo,9,386,Córdoba Capital,Córdoba
+598,Afiliado 0598,57,M,Plan A,2021-04-14,,Activo,10,319,Alta Gracia,Córdoba
+599,Afiliado 0599,41,F,Plan B,2020-06-12,,Activo,2,198,Villa María,Córdoba
+600,Afiliado 0600,3,F,Plan B,2026-01-21,,Activo,9,261,Bell Ville,Córdoba
+601,Afiliado 0601,41,M,Plan B,2025-06-16,2025-10-22,Baja,2,86,Córdoba Capital,Córdoba
+602,Afiliado 0602,80,M,Plan A,2020-09-25,,Activo,7,54,Alta Gracia,Córdoba
+603,Afiliado 0603,55,M,Plan A,2026-01-11,,Activo,3,13,Bell Ville,Córdoba
+604,Afiliado 0604,6,M,Plan A,2023-09-20,2024-01-03,Baja,5,286,Villa Carlos Paz,Córdoba
+605,Afiliado 0605,52,F,Plan A,2022-07-21,,Activo,8,323,Jesús María,Córdoba
+606,Afiliado 0606,49,M,Plan B,2024-11-08,,Activo,9,4,Villa Carlos Paz,Córdoba
+607,Afiliado 0607,9,F,Plan B,2020-07-05,,Activo,9,55,Villa María,Córdoba
+608,Afiliado 0608,36,F,Plan A,2023-05-19,,Activo,7,203,Córdoba Capital,Córdoba
+609,Afiliado 0609,28,M,Plan C,2025-04-25,,Activo,7,280,Villa María,Córdoba
+610,Afiliado 0610,82,F,Plan B,2021-08-13,,Activo,1,284,Río Cuarto,Córdoba
+611,Afiliado 0611,76,F,Plan A,2021-05-19,2024-09-02,Baja,9,281,Villa Carlos Paz,Córdoba
+612,Afiliado 0612,44,M,Plan A,2023-06-02,,Activo,7,331,Río Cuarto,Córdoba
+613,Afiliado 0613,78,F,Plan A,2021-10-21,,Activo,4,59,Río Cuarto,Córdoba
+614,Afiliado 0614,70,F,Plan A,2020-08-10,,Activo,9,38,Villa María,Córdoba
+615,Afiliado 0615,25,F,Plan A,2020-10-02,,Activo,6,183,Río Cuarto,Córdoba
+616,Afiliado 0616,8,M,Plan A,2022-08-18,2026-03-08,Baja,6,249,Bell Ville,Córdoba
+617,Afiliado 0617,39,M,Plan A,2023-09-06,,Activo,10,291,San Francisco,Córdoba
+618,Afiliado 0618,21,M,Plan A,2023-07-19,,Activo,6,127,Alta Gracia,Córdoba
+619,Afiliado 0619,46,M,Plan C,2024-11-21,,Activo,6,246,Bell Ville,Córdoba
+620,Afiliado 0620,39,F,Plan A,2024-12-29,,Activo,9,56,Río Cuarto,Córdoba
+621,Afiliado 0621,17,M,Plan B,2020-12-01,,Activo,5,376,Villa Carlos Paz,Córdoba
+622,Afiliado 0622,64,M,Plan A,2020-11-04,,Activo,10,297,Jesús María,Córdoba
+623,Afiliado 0623,70,F,Plan C,2022-05-21,,Activo,9,277,Bell Ville,Córdoba
+624,Afiliado 0624,28,F,Plan A,2021-08-31,,Activo,3,238,Villa Carlos Paz,Córdoba
+625,Afiliado 0625,1,M,Plan A,2024-06-13,,Activo,10,351,Río Cuarto,Córdoba
+626,Afiliado 0626,22,M,Plan C,2025-10-06,2025-12-15,Baja,8,184,Córdoba Capital,Córdoba
+627,Afiliado 0627,29,M,Plan C,2022-06-15,,Activo,5,190,Alta Gracia,Córdoba
+628,Afiliado 0628,66,F,Plan B,2020-06-24,,Activo,7,241,Bell Ville,Córdoba
+629,Afiliado 0629,13,F,Plan A,2020-07-09,2024-03-27,Baja,5,297,Río Cuarto,Córdoba
+630,Afiliado 0630,46,M,Plan A,2024-03-22,,Activo,9,129,Jesús María,Córdoba
+631,Afiliado 0631,45,F,Plan B,2022-07-01,,Activo,8,247,Córdoba Capital,Córdoba
+632,Afiliado 0632,56,M,Plan C,2025-08-17,,Activo,4,40,Villa María,Córdoba
+633,Afiliado 0633,20,F,Plan B,2022-05-16,,Activo,10,368,Villa Carlos Paz,Córdoba
+634,Afiliado 0634,42,M,Plan B,2022-08-01,,Activo,8,346,Bell Ville,Córdoba
+635,Afiliado 0635,20,F,Plan A,2025-05-16,,Activo,1,125,Córdoba Capital,Córdoba
+636,Afiliado 0636,20,M,Plan B,2021-06-07,,Activo,9,21,Río Cuarto,Córdoba
+637,Afiliado 0637,23,F,Plan A,2020-08-17,,Activo,10,289,Córdoba Capital,Córdoba
+638,Afiliado 0638,27,F,Plan A,2023-03-07,,Activo,10,242,Bell Ville,Córdoba
+639,Afiliado 0639,52,M,Plan A,2021-11-29,,Activo,10,393,Río Cuarto,Córdoba
+640,Afiliado 0640,43,F,Plan B,2025-09-23,,Activo,10,303,Villa Carlos Paz,Córdoba
+641,Afiliado 0641,16,M,Plan A,2022-07-30,,Activo,1,104,Jesús María,Córdoba
+642,Afiliado 0642,22,F,Plan A,2021-09-04,,Activo,10,308,Córdoba Capital,Córdoba
+643,Afiliado 0643,15,M,Plan B,2025-12-16,,Activo,8,338,Río Cuarto,Córdoba
+644,Afiliado 0644,83,F,Plan A,2026-01-17,,Activo,9,216,San Francisco,Córdoba
+645,Afiliado 0645,54,M,Plan B,2020-06-26,,Activo,8,394,Jesús María,Córdoba
+646,Afiliado 0646,73,M,Plan A,2023-12-06,,Activo,7,69,Villa María,Córdoba
+647,Afiliado 0647,10,F,Plan A,2025-05-08,,Activo,10,279,Jesús María,Córdoba
+648,Afiliado 0648,0,M,Plan B,2022-11-21,,Activo,9,4,Jesús María,Córdoba
+649,Afiliado 0649,40,F,Plan A,2022-04-21,,Activo,6,55,Río Cuarto,Córdoba
+650,Afiliado 0650,32,F,Plan A,2024-10-11,,Activo,9,217,San Francisco,Córdoba
+651,Afiliado 0651,50,M,Plan A,2023-02-02,,Activo,7,283,Bell Ville,Córdoba
+652,Afiliado 0652,71,F,Plan A,2022-01-02,,Activo,5,158,San Francisco,Córdoba
+653,Afiliado 0653,84,M,Plan C,2024-06-18,,Activo,4,229,Río Cuarto,Córdoba
+654,Afiliado 0654,51,F,Plan A,2021-02-14,,Activo,9,315,Córdoba Capital,Córdoba
+655,Afiliado 0655,81,M,Plan B,2021-10-20,,Activo,2,75,Bell Ville,Córdoba
+656,Afiliado 0656,28,F,Plan A,2024-11-18,2025-05-01,Baja,2,312,Córdoba Capital,Córdoba
+657,Afiliado 0657,51,F,Plan B,2024-04-23,,Activo,10,30,Río Cuarto,Córdoba
+658,Afiliado 0658,25,F,Plan B,2025-07-17,,Activo,4,18,Alta Gracia,Córdoba
+659,Afiliado 0659,46,M,Plan B,2021-11-25,,Activo,1,81,Villa Carlos Paz,Córdoba
+660,Afiliado 0660,45,F,Plan A,2023-02-04,,Activo,7,301,Alta Gracia,Córdoba
+661,Afiliado 0661,11,F,Plan A,2025-10-21,2025-12-07,Baja,9,299,San Francisco,Córdoba
+662,Afiliado 0662,35,M,Plan A,2023-11-24,,Activo,10,100,Bell Ville,Córdoba
+663,Afiliado 0663,33,M,Plan C,2024-07-12,,Activo,7,260,Villa Carlos Paz,Córdoba
+664,Afiliado 0664,43,M,Plan B,2020-10-23,,Activo,9,132,Villa María,Córdoba
+665,Afiliado 0665,72,F,Plan C,2024-12-18,,Activo,4,388,San Francisco,Córdoba
+666,Afiliado 0666,75,M,Plan A,2025-02-22,,Activo,8,60,Villa María,Córdoba
+667,Afiliado 0667,28,M,Plan B,2020-10-03,,Activo,6,212,San Francisco,Córdoba
+668,Afiliado 0668,33,M,Plan C,2025-10-16,,Activo,5,48,Jesús María,Córdoba
+669,Afiliado 0669,60,F,Plan A,2023-11-01,2024-05-31,Baja,6,112,Villa María,Córdoba
+670,Afiliado 0670,24,F,Plan A,2022-01-18,,Activo,4,121,Alta Gracia,Córdoba
+671,Afiliado 0671,25,M,Plan B,2022-12-23,,Activo,10,183,Río Cuarto,Córdoba
+672,Afiliado 0672,84,F,Plan B,2021-03-12,2021-09-18,Baja,10,4,Córdoba Capital,Córdoba
+673,Afiliado 0673,40,F,Plan B,2025-05-29,,Activo,10,141,Bell Ville,Córdoba
+674,Afiliado 0674,65,F,Plan A,2022-01-19,,Activo,7,114,Río Cuarto,Córdoba
+675,Afiliado 0675,54,F,Plan B,2020-08-09,,Activo,9,17,San Francisco,Córdoba
+676,Afiliado 0676,22,F,Plan A,2024-05-31,,Activo,2,358,Bell Ville,Córdoba
+677,Afiliado 0677,1,M,Plan A,2023-07-16,,Activo,7,298,Villa Carlos Paz,Córdoba
+678,Afiliado 0678,33,M,Plan A,2023-08-25,,Activo,9,135,Alta Gracia,Córdoba
+679,Afiliado 0679,78,F,Plan B,2023-01-08,,Activo,6,95,Bell Ville,Córdoba
+680,Afiliado 0680,47,F,Plan B,2024-10-02,,Activo,7,144,Bell Ville,Córdoba
+681,Afiliado 0681,73,M,Plan B,2022-01-06,,Activo,2,370,Villa María,Córdoba
+682,Afiliado 0682,48,M,Plan A,2022-08-23,,Activo,3,379,Río Cuarto,Córdoba
+683,Afiliado 0683,22,F,Plan C,2025-04-21,,Activo,8,69,San Francisco,Córdoba
+684,Afiliado 0684,71,M,Plan A,2025-06-16,,Activo,7,51,Río Cuarto,Córdoba
+685,Afiliado 0685,32,F,Plan B,2020-09-02,,Activo,2,231,San Francisco,Córdoba
+686,Afiliado 0686,71,F,Plan A,2022-11-30,,Activo,6,11,Jesús María,Córdoba
+687,Afiliado 0687,77,M,Plan A,2021-05-11,,Activo,10,295,Río Cuarto,Córdoba
+688,Afiliado 0688,65,F,Plan A,2023-03-11,,Activo,8,41,Jesús María,Córdoba
+689,Afiliado 0689,18,M,Plan A,2023-03-19,,Activo,6,216,Jesús María,Córdoba
+690,Afiliado 0690,29,F,Plan B,2020-10-19,2022-10-22,Baja,6,335,Villa María,Córdoba
+691,Afiliado 0691,50,F,Plan B,2022-12-31,,Activo,8,400,San Francisco,Córdoba
+692,Afiliado 0692,52,M,Plan A,2025-11-03,,Activo,3,12,Río Cuarto,Córdoba
+693,Afiliado 0693,10,M,Plan C,2022-08-19,,Activo,3,204,Villa Carlos Paz,Córdoba
+694,Afiliado 0694,60,M,Plan A,2021-01-26,2026-01-29,Baja,1,395,Jesús María,Córdoba
+695,Afiliado 0695,10,M,Plan B,2025-11-16,,Activo,5,317,Río Cuarto,Córdoba
+696,Afiliado 0696,49,F,Plan C,2020-12-11,,Activo,4,127,Villa María,Córdoba
+697,Afiliado 0697,16,M,Plan B,2024-12-20,,Activo,1,18,San Francisco,Córdoba
+698,Afiliado 0698,59,F,Plan A,2023-08-25,,Activo,9,228,Río Cuarto,Córdoba
+699,Afiliado 0699,76,F,Plan C,2026-01-17,,Activo,10,223,Villa María,Córdoba
+700,Afiliado 0700,29,M,Plan B,2023-11-23,,Activo,8,158,San Francisco,Córdoba
+701,Afiliado 0701,38,M,Plan A,2024-08-15,,Activo,1,268,Río Cuarto,Córdoba
+702,Afiliado 0702,68,M,Plan A,2023-11-09,,Activo,8,387,Bell Ville,Córdoba
+703,Afiliado 0703,37,M,Plan B,2023-05-12,2025-11-08,Baja,1,281,San Francisco,Córdoba
+704,Afiliado 0704,71,F,Plan B,2022-02-11,,Activo,7,128,Río Cuarto,Córdoba
+705,Afiliado 0705,28,F,Plan B,2024-05-15,,Activo,2,217,Alta Gracia,Córdoba
+706,Afiliado 0706,78,F,Plan C,2025-10-17,,Activo,5,333,Villa María,Córdoba
+707,Afiliado 0707,8,M,Plan B,2024-08-18,,Activo,3,149,Villa Carlos Paz,Córdoba
+708,Afiliado 0708,34,F,Plan A,2025-02-08,,Activo,4,165,Córdoba Capital,Córdoba
+709,Afiliado 0709,2,M,Plan A,2021-09-15,2024-10-14,Baja,2,145,Villa María,Córdoba
+710,Afiliado 0710,1,M,Plan A,2021-05-27,,Activo,2,78,Córdoba Capital,Córdoba
+711,Afiliado 0711,53,F,Plan B,2025-07-14,,Activo,8,191,Bell Ville,Córdoba
+712,Afiliado 0712,18,M,Plan A,2020-05-09,,Activo,5,398,Jesús María,Córdoba
+713,Afiliado 0713,23,M,Plan B,2020-10-19,,Activo,5,196,Córdoba Capital,Córdoba
+714,Afiliado 0714,31,F,Plan B,2021-05-14,,Activo,8,127,Córdoba Capital,Córdoba
+715,Afiliado 0715,12,M,Plan C,2022-03-26,,Activo,8,200,Villa María,Córdoba
+716,Afiliado 0716,5,M,Plan A,2023-08-16,,Activo,5,247,Villa María,Córdoba
+717,Afiliado 0717,6,M,Plan B,2022-03-24,,Activo,2,121,Jesús María,Córdoba
+718,Afiliado 0718,35,M,Plan A,2023-08-22,2025-12-12,Baja,7,125,Córdoba Capital,Córdoba
+719,Afiliado 0719,60,M,Plan B,2020-06-21,,Activo,6,395,Villa Carlos Paz,Córdoba
+720,Afiliado 0720,11,F,Plan A,2022-10-15,,Activo,1,31,San Francisco,Córdoba
+721,Afiliado 0721,13,M,Plan A,2021-09-22,,Activo,8,120,San Francisco,Córdoba
+722,Afiliado 0722,56,M,Plan B,2023-11-23,,Activo,1,353,Jesús María,Córdoba
+723,Afiliado 0723,32,M,Plan A,2024-01-07,,Activo,8,362,Bell Ville,Córdoba
+724,Afiliado 0724,62,M,Plan A,2023-04-22,,Activo,10,96,San Francisco,Córdoba
+725,Afiliado 0725,35,M,Plan B,2023-08-18,,Activo,2,272,Río Cuarto,Córdoba
+726,Afiliado 0726,33,F,Plan B,2025-01-14,,Activo,8,1,Jesús María,Córdoba
+727,Afiliado 0727,79,F,Plan B,2022-01-29,,Activo,10,123,San Francisco,Córdoba
+728,Afiliado 0728,68,F,Plan B,2020-09-16,,Activo,4,269,Bell Ville,Córdoba
+729,Afiliado 0729,36,F,Plan B,2026-03-08,,Activo,7,329,San Francisco,Córdoba
+730,Afiliado 0730,8,M,Plan A,2021-03-28,2025-01-05,Baja,3,92,Córdoba Capital,Córdoba
+731,Afiliado 0731,12,M,Plan A,2022-04-07,2023-06-03,Baja,10,329,Jesús María,Córdoba
+732,Afiliado 0732,75,F,Plan A,2025-06-29,,Activo,1,188,Alta Gracia,Córdoba
+733,Afiliado 0733,26,F,Plan C,2020-10-17,2026-01-15,Baja,2,240,Córdoba Capital,Córdoba
+734,Afiliado 0734,53,F,Plan B,2024-01-18,,Activo,1,316,Villa María,Córdoba
+735,Afiliado 0735,38,M,Plan A,2025-12-06,2026-01-14,Baja,4,266,Villa Carlos Paz,Córdoba
+736,Afiliado 0736,68,F,Plan A,2021-02-18,,Activo,4,99,Alta Gracia,Córdoba
+737,Afiliado 0737,71,F,Plan C,2022-01-02,,Activo,2,393,San Francisco,Córdoba
+738,Afiliado 0738,54,M,Plan A,2025-02-21,,Activo,3,93,Jesús María,Córdoba
+739,Afiliado 0739,20,F,Plan B,2025-08-29,,Activo,6,162,San Francisco,Córdoba
+740,Afiliado 0740,81,F,Plan B,2024-03-02,,Activo,6,312,Alta Gracia,Córdoba
+741,Afiliado 0741,70,F,Plan B,2026-02-12,,Activo,6,232,Bell Ville,Córdoba
+742,Afiliado 0742,36,M,Plan A,2024-06-14,2024-08-18,Baja,9,70,Villa María,Córdoba
+743,Afiliado 0743,28,M,Plan C,2020-01-27,,Activo,6,12,Villa María,Córdoba
+744,Afiliado 0744,73,M,Plan C,2026-03-17,,Activo,2,20,Bell Ville,Córdoba
+745,Afiliado 0745,33,F,Plan B,2023-12-27,,Activo,10,128,Alta Gracia,Córdoba
+746,Afiliado 0746,11,F,Plan B,2022-11-15,,Activo,10,112,Villa Carlos Paz,Córdoba
+747,Afiliado 0747,22,F,Plan C,2023-08-22,,Activo,10,49,Villa María,Córdoba
+748,Afiliado 0748,73,F,Plan B,2020-06-02,,Activo,2,400,Córdoba Capital,Córdoba
+749,Afiliado 0749,55,F,Plan A,2023-10-01,,Activo,2,395,Alta Gracia,Córdoba
+750,Afiliado 0750,80,F,Plan B,2020-02-16,,Activo,1,157,Córdoba Capital,Córdoba
+751,Afiliado 0751,19,F,Plan B,2023-07-31,,Activo,9,358,Alta Gracia,Córdoba
+752,Afiliado 0752,50,F,Plan A,2021-09-19,2025-11-25,Baja,10,295,Villa Carlos Paz,Córdoba
+753,Afiliado 0753,50,M,Plan B,2022-06-28,,Activo,3,173,Villa Carlos Paz,Córdoba
+754,Afiliado 0754,6,F,Plan C,2025-05-03,,Activo,5,44,Jesús María,Córdoba
+755,Afiliado 0755,16,M,Plan C,2025-08-17,,Activo,8,287,Alta Gracia,Córdoba
+756,Afiliado 0756,73,M,Plan A,2025-06-21,,Activo,9,316,Alta Gracia,Córdoba
+757,Afiliado 0757,41,M,Plan A,2022-09-19,2025-03-17,Baja,2,344,Jesús María,Córdoba
+758,Afiliado 0758,24,F,Plan C,2024-09-30,,Activo,6,305,Córdoba Capital,Córdoba
+759,Afiliado 0759,44,F,Plan B,2023-06-02,,Activo,10,75,Bell Ville,Córdoba
+760,Afiliado 0760,29,M,Plan A,2020-07-02,,Activo,6,80,Villa Carlos Paz,Córdoba
+761,Afiliado 0761,31,M,Plan C,2021-04-05,,Activo,5,8,San Francisco,Córdoba
+762,Afiliado 0762,60,M,Plan C,2021-03-31,,Activo,6,108,Alta Gracia,Córdoba
+763,Afiliado 0763,33,F,Plan B,2022-04-14,,Activo,10,374,Río Cuarto,Córdoba
+764,Afiliado 0764,84,M,Plan B,2020-03-16,,Activo,5,88,Córdoba Capital,Córdoba
+765,Afiliado 0765,79,F,Plan A,2023-03-09,,Activo,1,239,Córdoba Capital,Córdoba
+766,Afiliado 0766,34,F,Plan A,2020-09-29,,Activo,2,10,Villa María,Córdoba
+767,Afiliado 0767,48,M,Plan A,2024-05-02,,Activo,6,249,Villa Carlos Paz,Córdoba
+768,Afiliado 0768,58,M,Plan B,2022-02-02,,Activo,1,127,Villa María,Córdoba
+769,Afiliado 0769,20,M,Plan A,2023-09-28,,Activo,6,351,San Francisco,Córdoba
+770,Afiliado 0770,30,F,Plan A,2023-12-26,,Activo,1,321,Villa María,Córdoba
+771,Afiliado 0771,3,F,Plan A,2024-05-04,,Activo,4,78,San Francisco,Córdoba
+772,Afiliado 0772,11,F,Plan B,2024-05-28,,Activo,9,348,Alta Gracia,Córdoba
+773,Afiliado 0773,19,F,Plan C,2024-09-05,,Activo,5,310,San Francisco,Córdoba
+774,Afiliado 0774,26,M,Plan A,2025-01-13,,Activo,10,278,Alta Gracia,Córdoba
+775,Afiliado 0775,67,M,Plan A,2021-07-19,,Activo,7,395,Río Cuarto,Córdoba
+776,Afiliado 0776,71,M,Plan B,2021-10-09,,Activo,3,163,Río Cuarto,Córdoba
+777,Afiliado 0777,52,F,Plan A,2020-04-30,,Activo,5,227,Villa María,Córdoba
+778,Afiliado 0778,13,M,Plan A,2021-09-14,,Activo,3,14,Villa María,Córdoba
+779,Afiliado 0779,29,M,Plan A,2022-08-03,,Activo,6,41,Bell Ville,Córdoba
+780,Afiliado 0780,77,F,Plan A,2021-07-03,,Activo,6,95,Jesús María,Córdoba
+781,Afiliado 0781,20,M,Plan A,2025-07-05,,Activo,4,17,Jesús María,Córdoba
+782,Afiliado 0782,52,M,Plan A,2020-03-02,,Activo,4,388,Alta Gracia,Córdoba
+783,Afiliado 0783,56,F,Plan A,2020-09-27,,Activo,6,235,Alta Gracia,Córdoba
+784,Afiliado 0784,5,F,Plan C,2024-10-17,,Activo,6,202,Córdoba Capital,Córdoba
+785,Afiliado 0785,5,M,Plan A,2025-11-02,2026-01-29,Baja,9,276,Jesús María,Córdoba
+786,Afiliado 0786,66,M,Plan B,2020-06-09,,Activo,4,150,Bell Ville,Córdoba
+787,Afiliado 0787,36,F,Plan B,2024-06-18,,Activo,3,217,Villa María,Córdoba
+788,Afiliado 0788,18,F,Plan A,2020-08-11,,Activo,8,47,Villa Carlos Paz,Córdoba
+789,Afiliado 0789,69,M,Plan B,2022-01-06,,Activo,7,212,San Francisco,Córdoba
+790,Afiliado 0790,75,M,Plan A,2025-01-20,2025-10-09,Baja,8,47,Villa María,Córdoba
+791,Afiliado 0791,20,M,Plan C,2023-08-20,,Activo,2,59,Bell Ville,Córdoba
+792,Afiliado 0792,49,M,Plan A,2024-01-26,2026-02-18,Baja,7,282,Jesús María,Córdoba
+793,Afiliado 0793,42,M,Plan A,2020-06-28,,Activo,3,75,Río Cuarto,Córdoba
+794,Afiliado 0794,39,F,Plan A,2020-07-29,,Activo,5,321,Río Cuarto,Córdoba
+795,Afiliado 0795,25,M,Plan C,2021-04-26,,Activo,10,392,Villa María,Córdoba
+796,Afiliado 0796,63,M,Plan B,2020-02-20,,Activo,10,253,Alta Gracia,Córdoba
+797,Afiliado 0797,60,F,Plan B,2022-06-07,,Activo,7,227,Villa Carlos Paz,Córdoba
+798,Afiliado 0798,70,F,Plan A,2020-01-27,,Activo,10,322,Alta Gracia,Córdoba
+799,Afiliado 0799,7,F,Plan B,2020-07-19,,Activo,1,75,Córdoba Capital,Córdoba
+800,Afiliado 0800,11,M,Plan A,2023-05-07,,Activo,2,214,Río Cuarto,Córdoba
+801,Afiliado 0801,78,M,Plan C,2021-10-22,,Activo,8,384,San Francisco,Córdoba
+802,Afiliado 0802,41,F,Plan A,2020-05-26,2023-11-02,Baja,7,35,Jesús María,Córdoba
+803,Afiliado 0803,60,M,Plan A,2026-03-04,,Activo,2,356,Villa María,Córdoba
+804,Afiliado 0804,67,M,Plan A,2023-09-10,,Activo,4,314,Córdoba Capital,Córdoba
+805,Afiliado 0805,80,M,Plan A,2021-03-23,,Activo,8,371,Villa María,Córdoba
+806,Afiliado 0806,40,F,Plan B,2024-10-15,,Activo,9,295,San Francisco,Córdoba
+807,Afiliado 0807,63,F,Plan A,2021-06-15,,Activo,8,93,Alta Gracia,Córdoba
+808,Afiliado 0808,0,M,Plan B,2023-04-04,,Activo,1,239,Villa Carlos Paz,Córdoba
+809,Afiliado 0809,53,F,Plan A,2022-04-29,,Activo,1,171,San Francisco,Córdoba
+810,Afiliado 0810,36,F,Plan B,2022-05-19,2023-08-04,Baja,2,158,Villa María,Córdoba
+811,Afiliado 0811,0,M,Plan A,2025-09-06,,Activo,6,175,Jesús María,Córdoba
+812,Afiliado 0812,24,F,Plan A,2020-04-29,,Activo,6,345,Bell Ville,Córdoba
+813,Afiliado 0813,82,M,Plan B,2025-04-27,,Activo,8,80,Bell Ville,Córdoba
+814,Afiliado 0814,59,F,Plan A,2026-01-08,,Activo,1,267,Villa María,Córdoba
+815,Afiliado 0815,2,M,Plan A,2023-07-16,,Activo,10,351,San Francisco,Córdoba
+816,Afiliado 0816,35,M,Plan C,2023-12-19,2024-06-18,Baja,6,193,Río Cuarto,Córdoba
+817,Afiliado 0817,14,F,Plan C,2024-05-14,,Activo,6,364,Córdoba Capital,Córdoba
+818,Afiliado 0818,63,M,Plan A,2023-01-17,,Activo,6,232,Villa María,Córdoba
+819,Afiliado 0819,22,M,Plan A,2022-06-04,,Activo,6,20,Alta Gracia,Córdoba
+820,Afiliado 0820,3,F,Plan B,2021-01-14,,Activo,9,79,Alta Gracia,Córdoba
+821,Afiliado 0821,67,F,Plan A,2023-10-25,,Activo,6,74,Villa Carlos Paz,Córdoba
+822,Afiliado 0822,16,M,Plan A,2025-10-15,,Activo,1,236,Jesús María,Córdoba
+823,Afiliado 0823,5,M,Plan A,2025-11-09,2026-01-17,Baja,6,240,Córdoba Capital,Córdoba
+824,Afiliado 0824,84,F,Plan B,2021-02-26,,Activo,1,296,Villa María,Córdoba
+825,Afiliado 0825,24,F,Plan B,2022-05-09,,Activo,5,273,San Francisco,Córdoba
+826,Afiliado 0826,34,M,Plan A,2024-12-11,,Activo,3,141,Villa Carlos Paz,Córdoba
+827,Afiliado 0827,71,M,Plan A,2020-03-03,,Activo,4,278,San Francisco,Córdoba
+828,Afiliado 0828,18,F,Plan A,2026-02-28,,Activo,10,126,Río Cuarto,Córdoba
+829,Afiliado 0829,43,F,Plan B,2020-10-18,,Activo,1,67,Córdoba Capital,Córdoba
+830,Afiliado 0830,6,M,Plan A,2025-04-12,,Activo,7,28,Villa Carlos Paz,Córdoba
+831,Afiliado 0831,76,F,Plan A,2024-10-12,,Activo,10,183,Villa María,Córdoba
+832,Afiliado 0832,85,M,Plan B,2023-09-23,,Activo,8,291,Río Cuarto,Córdoba
+833,Afiliado 0833,59,M,Plan A,2021-01-15,,Activo,8,159,Bell Ville,Córdoba
+834,Afiliado 0834,28,M,Plan B,2025-04-11,,Activo,10,133,San Francisco,Córdoba
+835,Afiliado 0835,85,F,Plan A,2024-05-24,,Activo,6,233,Bell Ville,Córdoba
+836,Afiliado 0836,44,F,Plan A,2020-05-03,2021-09-07,Baja,8,88,Villa María,Córdoba
+837,Afiliado 0837,16,M,Plan A,2023-11-28,,Activo,7,366,Villa Carlos Paz,Córdoba
+838,Afiliado 0838,9,F,Plan B,2023-08-27,,Activo,9,237,Jesús María,Córdoba
+839,Afiliado 0839,31,M,Plan C,2024-08-20,,Activo,8,197,Villa Carlos Paz,Córdoba
+840,Afiliado 0840,75,F,Plan B,2023-10-27,,Activo,7,291,San Francisco,Córdoba
+841,Afiliado 0841,22,M,Plan A,2026-02-08,,Activo,10,250,Villa Carlos Paz,Córdoba
+842,Afiliado 0842,12,F,Plan B,2025-03-11,,Activo,3,158,Jesús María,Córdoba
+843,Afiliado 0843,76,F,Plan A,2020-10-12,,Activo,6,254,Córdoba Capital,Córdoba
+844,Afiliado 0844,17,M,Plan A,2021-01-05,,Activo,3,339,Río Cuarto,Córdoba
+845,Afiliado 0845,49,F,Plan C,2025-01-29,,Activo,4,106,San Francisco,Córdoba
+846,Afiliado 0846,38,F,Plan A,2023-05-12,,Activo,6,46,Córdoba Capital,Córdoba
+847,Afiliado 0847,16,F,Plan A,2025-09-21,,Activo,1,190,Córdoba Capital,Córdoba
+848,Afiliado 0848,45,M,Plan A,2020-01-04,,Activo,5,16,Alta Gracia,Córdoba
+849,Afiliado 0849,50,F,Plan A,2024-11-03,,Activo,7,208,Jesús María,Córdoba
+850,Afiliado 0850,84,M,Plan A,2024-11-17,,Activo,8,72,Alta Gracia,Córdoba
+851,Afiliado 0851,46,F,Plan B,2026-03-25,,Activo,3,148,Río Cuarto,Córdoba
+852,Afiliado 0852,2,M,Plan A,2021-07-04,2025-03-22,Baja,8,337,Jesús María,Córdoba
+853,Afiliado 0853,53,F,Plan C,2021-07-10,2025-03-16,Baja,10,218,Río Cuarto,Córdoba
+854,Afiliado 0854,70,F,Plan B,2025-02-04,,Activo,7,182,Alta Gracia,Córdoba
+855,Afiliado 0855,0,F,Plan A,2022-01-31,,Activo,4,365,Villa María,Córdoba
+856,Afiliado 0856,73,F,Plan A,2024-08-09,,Activo,1,20,Bell Ville,Córdoba
+857,Afiliado 0857,10,M,Plan A,2024-02-18,2025-07-25,Baja,9,385,Villa María,Córdoba
+858,Afiliado 0858,66,M,Plan B,2025-03-19,,Activo,4,242,Villa Carlos Paz,Córdoba
+859,Afiliado 0859,39,M,Plan A,2026-01-17,,Activo,6,274,Córdoba Capital,Córdoba
+860,Afiliado 0860,60,F,Plan B,2025-04-04,,Activo,7,181,Villa María,Córdoba
+861,Afiliado 0861,76,F,Plan A,2023-03-30,,Activo,10,134,Córdoba Capital,Córdoba
+862,Afiliado 0862,73,M,Plan B,2025-04-22,,Activo,5,378,Córdoba Capital,Córdoba
+863,Afiliado 0863,16,M,Plan A,2023-03-20,,Activo,5,130,Río Cuarto,Córdoba
+864,Afiliado 0864,32,M,Plan A,2023-02-24,,Activo,2,310,Río Cuarto,Córdoba
+865,Afiliado 0865,47,M,Plan C,2021-09-11,,Activo,5,359,Alta Gracia,Córdoba
+866,Afiliado 0866,67,M,Plan B,2025-06-09,,Activo,6,44,Río Cuarto,Córdoba
+867,Afiliado 0867,52,F,Plan A,2021-09-23,,Activo,4,339,Bell Ville,Córdoba
+868,Afiliado 0868,44,M,Plan C,2021-11-16,,Activo,5,387,Villa Carlos Paz,Córdoba
+869,Afiliado 0869,51,F,Plan A,2020-08-03,,Activo,5,244,Alta Gracia,Córdoba
+870,Afiliado 0870,49,F,Plan C,2024-04-04,,Activo,5,75,Jesús María,Córdoba
+871,Afiliado 0871,57,F,Plan B,2020-02-18,,Activo,6,272,Córdoba Capital,Córdoba
+872,Afiliado 0872,81,F,Plan A,2021-02-02,,Activo,7,313,Villa María,Córdoba
+873,Afiliado 0873,12,F,Plan A,2023-10-04,,Activo,10,201,Bell Ville,Córdoba
+874,Afiliado 0874,75,M,Plan A,2022-09-17,,Activo,9,173,Río Cuarto,Córdoba
+875,Afiliado 0875,1,M,Plan B,2023-07-07,,Activo,1,211,Villa Carlos Paz,Córdoba
+876,Afiliado 0876,44,M,Plan B,2025-11-21,2026-02-16,Baja,5,129,Alta Gracia,Córdoba
+877,Afiliado 0877,7,M,Plan A,2020-05-19,2021-06-29,Baja,10,327,Villa Carlos Paz,Córdoba
+878,Afiliado 0878,16,F,Plan A,2021-05-06,2024-10-25,Baja,10,95,Villa Carlos Paz,Córdoba
+879,Afiliado 0879,59,M,Plan B,2022-01-24,,Activo,8,142,Jesús María,Córdoba
+880,Afiliado 0880,9,F,Plan C,2023-08-17,,Activo,1,196,Jesús María,Córdoba
+881,Afiliado 0881,33,F,Plan B,2023-09-24,,Activo,3,226,Villa Carlos Paz,Córdoba
+882,Afiliado 0882,25,F,Plan A,2025-07-07,,Activo,3,331,Bell Ville,Córdoba
+883,Afiliado 0883,55,M,Plan A,2021-03-20,2025-08-10,Baja,10,330,Villa Carlos Paz,Córdoba
+884,Afiliado 0884,13,M,Plan A,2024-12-13,,Activo,2,37,Villa María,Córdoba
+885,Afiliado 0885,19,M,Plan C,2024-12-31,2025-10-11,Baja,1,341,Jesús María,Córdoba
+886,Afiliado 0886,42,F,Plan A,2022-12-27,,Activo,10,2,Bell Ville,Córdoba
+887,Afiliado 0887,8,M,Plan B,2025-05-12,,Activo,1,197,Bell Ville,Córdoba
+888,Afiliado 0888,45,F,Plan A,2021-05-11,,Activo,5,206,Córdoba Capital,Córdoba
+889,Afiliado 0889,43,M,Plan B,2021-01-06,,Activo,8,390,Villa María,Córdoba
+890,Afiliado 0890,5,F,Plan B,2022-04-11,,Activo,4,154,Jesús María,Córdoba
+891,Afiliado 0891,45,F,Plan B,2021-03-13,,Activo,2,324,Bell Ville,Córdoba
+892,Afiliado 0892,3,M,Plan A,2022-02-15,2023-04-16,Baja,8,200,Villa Carlos Paz,Córdoba
+893,Afiliado 0893,63,F,Plan A,2026-01-23,,Activo,1,19,San Francisco,Córdoba
+894,Afiliado 0894,5,F,Plan A,2020-08-17,,Activo,2,109,Bell Ville,Córdoba
+895,Afiliado 0895,29,M,Plan C,2026-01-06,2026-03-14,Baja,1,377,Río Cuarto,Córdoba
+896,Afiliado 0896,60,M,Plan C,2025-06-25,,Activo,4,360,Río Cuarto,Córdoba
+897,Afiliado 0897,6,F,Plan B,2020-02-28,,Activo,2,234,Río Cuarto,Córdoba
+898,Afiliado 0898,13,M,Plan B,2020-09-18,,Activo,8,305,Alta Gracia,Córdoba
+899,Afiliado 0899,54,F,Plan B,2020-09-15,,Activo,7,167,Villa Carlos Paz,Córdoba
+900,Afiliado 0900,5,M,Plan A,2026-02-13,2026-03-21,Baja,6,33,Villa Carlos Paz,Córdoba
+901,Afiliado 0901,21,F,Plan C,2023-01-26,2025-06-24,Baja,9,85,Bell Ville,Córdoba
+902,Afiliado 0902,5,M,Plan A,2022-09-24,,Activo,2,324,Jesús María,Córdoba
+903,Afiliado 0903,10,M,Plan A,2021-10-08,2024-07-31,Baja,1,92,Villa Carlos Paz,Córdoba
+904,Afiliado 0904,60,M,Plan B,2023-03-08,,Activo,4,74,Villa María,Córdoba
+905,Afiliado 0905,30,M,Plan A,2025-11-12,,Activo,10,355,Córdoba Capital,Córdoba
+906,Afiliado 0906,78,M,Plan A,2022-01-07,,Activo,5,179,Jesús María,Córdoba
+907,Afiliado 0907,24,M,Plan B,2020-01-19,,Activo,9,49,San Francisco,Córdoba
+908,Afiliado 0908,59,M,Plan A,2026-01-19,,Activo,5,28,Alta Gracia,Córdoba
+909,Afiliado 0909,60,F,Plan B,2021-04-06,,Activo,3,82,Córdoba Capital,Córdoba
+910,Afiliado 0910,36,M,Plan A,2020-08-09,,Activo,7,129,San Francisco,Córdoba
+911,Afiliado 0911,6,M,Plan A,2025-01-30,2026-03-15,Baja,3,15,Bell Ville,Córdoba
+912,Afiliado 0912,56,F,Plan A,2025-10-10,2026-01-08,Baja,7,102,San Francisco,Córdoba
+913,Afiliado 0913,41,M,Plan A,2022-07-31,,Activo,2,122,Jesús María,Córdoba
+914,Afiliado 0914,28,M,Plan B,2022-03-30,,Activo,8,300,Bell Ville,Córdoba
+915,Afiliado 0915,18,M,Plan A,2020-08-10,,Activo,10,233,Río Cuarto,Córdoba
+916,Afiliado 0916,58,M,Plan B,2024-05-05,,Activo,6,139,Alta Gracia,Córdoba
+917,Afiliado 0917,72,M,Plan A,2023-10-07,2025-10-14,Baja,5,70,Villa Carlos Paz,Córdoba
+918,Afiliado 0918,21,F,Plan B,2025-03-21,,Activo,4,152,Río Cuarto,Córdoba
+919,Afiliado 0919,70,M,Plan C,2021-11-27,,Activo,2,211,Bell Ville,Córdoba
+920,Afiliado 0920,59,F,Plan B,2022-06-05,,Activo,1,374,Jesús María,Córdoba
+921,Afiliado 0921,55,M,Plan A,2022-10-07,,Activo,10,77,Córdoba Capital,Córdoba
+922,Afiliado 0922,5,F,Plan A,2024-09-07,,Activo,9,18,Jesús María,Córdoba
+923,Afiliado 0923,12,F,Plan A,2025-12-15,,Activo,8,124,Villa Carlos Paz,Córdoba
+924,Afiliado 0924,52,M,Plan B,2020-02-20,,Activo,3,184,Villa María,Córdoba
+925,Afiliado 0925,11,M,Plan A,2022-09-06,,Activo,8,343,Villa María,Córdoba
+926,Afiliado 0926,73,M,Plan A,2021-10-24,,Activo,8,238,Río Cuarto,Córdoba
+927,Afiliado 0927,47,F,Plan B,2024-07-18,,Activo,1,322,Villa Carlos Paz,Córdoba
+928,Afiliado 0928,42,M,Plan A,2024-04-25,,Activo,5,219,Villa María,Córdoba
+929,Afiliado 0929,26,M,Plan B,2026-01-30,,Activo,10,172,Córdoba Capital,Córdoba
+930,Afiliado 0930,46,M,Plan A,2025-10-09,,Activo,2,197,San Francisco,Córdoba
+931,Afiliado 0931,46,F,Plan A,2025-03-21,,Activo,3,332,Villa Carlos Paz,Córdoba
+932,Afiliado 0932,30,M,Plan B,2022-04-18,2024-04-02,Baja,8,378,Alta Gracia,Córdoba
+933,Afiliado 0933,34,F,Plan A,2022-07-12,,Activo,5,28,Villa Carlos Paz,Córdoba
+934,Afiliado 0934,62,M,Plan B,2024-03-07,,Activo,8,364,Villa María,Córdoba
+935,Afiliado 0935,8,M,Plan A,2025-01-25,,Activo,8,45,Villa Carlos Paz,Córdoba
+936,Afiliado 0936,36,M,Plan A,2024-05-19,,Activo,2,85,Villa María,Córdoba
+937,Afiliado 0937,63,M,Plan B,2021-04-03,,Activo,4,267,Córdoba Capital,Córdoba
+938,Afiliado 0938,69,M,Plan B,2023-04-15,,Activo,8,178,Jesús María,Córdoba
+939,Afiliado 0939,2,F,Plan B,2024-12-23,,Activo,4,33,Córdoba Capital,Córdoba
+940,Afiliado 0940,66,F,Plan A,2022-08-09,,Activo,7,297,San Francisco,Córdoba
+941,Afiliado 0941,85,F,Plan B,2023-08-29,,Activo,8,156,Río Cuarto,Córdoba
+942,Afiliado 0942,33,M,Plan A,2023-06-09,,Activo,8,191,Villa María,Córdoba
+943,Afiliado 0943,58,M,Plan A,2020-07-12,2023-10-19,Baja,10,83,Villa María,Córdoba
+944,Afiliado 0944,85,M,Plan C,2022-01-16,,Activo,3,122,Villa Carlos Paz,Córdoba
+945,Afiliado 0945,73,M,Plan A,2020-06-17,,Activo,8,134,San Francisco,Córdoba
+946,Afiliado 0946,4,F,Plan C,2022-01-25,,Activo,6,76,San Francisco,Córdoba
+947,Afiliado 0947,20,F,Plan A,2025-01-10,,Activo,2,13,Jesús María,Córdoba
+948,Afiliado 0948,58,F,Plan A,2025-08-07,,Activo,3,3,San Francisco,Córdoba
+949,Afiliado 0949,37,M,Plan B,2023-04-25,,Activo,10,374,Bell Ville,Córdoba
+950,Afiliado 0950,61,M,Plan C,2023-10-19,,Activo,3,348,Villa Carlos Paz,Córdoba
+951,Afiliado 0951,28,F,Plan B,2023-06-15,2025-04-07,Baja,6,48,San Francisco,Córdoba
+952,Afiliado 0952,24,M,Plan B,2020-08-13,,Activo,5,101,Córdoba Capital,Córdoba
+953,Afiliado 0953,57,M,Plan B,2020-12-08,,Activo,9,202,Alta Gracia,Córdoba
+954,Afiliado 0954,77,M,Plan B,2025-07-01,,Activo,6,204,Río Cuarto,Córdoba
+955,Afiliado 0955,47,M,Plan B,2024-10-17,,Activo,5,177,San Francisco,Córdoba
+956,Afiliado 0956,71,M,Plan A,2023-06-15,,Activo,4,373,Bell Ville,Córdoba
+957,Afiliado 0957,36,M,Plan A,2024-08-29,,Activo,7,374,Jesús María,Córdoba
+958,Afiliado 0958,76,M,Plan A,2021-07-25,,Activo,3,107,Villa María,Córdoba
+959,Afiliado 0959,67,F,Plan C,2025-04-28,,Activo,2,303,Jesús María,Córdoba
+960,Afiliado 0960,34,F,Plan C,2020-12-28,2024-08-27,Baja,3,285,Bell Ville,Córdoba
+961,Afiliado 0961,48,F,Plan A,2021-07-14,,Activo,9,252,Córdoba Capital,Córdoba
+962,Afiliado 0962,38,F,Plan B,2023-05-21,,Activo,9,379,Bell Ville,Córdoba
+963,Afiliado 0963,19,F,Plan C,2022-07-08,2022-08-12,Baja,5,328,Bell Ville,Córdoba
+964,Afiliado 0964,36,F,Plan A,2021-05-23,,Activo,3,252,Alta Gracia,Córdoba
+965,Afiliado 0965,63,M,Plan B,2020-04-26,2023-07-05,Baja,10,382,San Francisco,Córdoba
+966,Afiliado 0966,33,F,Plan C,2025-05-22,,Activo,2,192,Córdoba Capital,Córdoba
+967,Afiliado 0967,7,M,Plan A,2022-11-29,,Activo,6,237,Río Cuarto,Córdoba
+968,Afiliado 0968,34,F,Plan B,2024-01-03,,Activo,7,326,San Francisco,Córdoba
+969,Afiliado 0969,67,M,Plan A,2020-07-18,,Activo,9,100,Río Cuarto,Córdoba
+970,Afiliado 0970,21,F,Plan C,2021-01-22,,Activo,6,351,Villa María,Córdoba
+971,Afiliado 0971,46,M,Plan C,2023-01-16,,Activo,9,297,San Francisco,Córdoba
+972,Afiliado 0972,36,F,Plan C,2021-08-11,2024-08-06,Baja,8,211,San Francisco,Córdoba
+973,Afiliado 0973,64,M,Plan A,2021-10-29,2022-10-10,Baja,4,287,Villa Carlos Paz,Córdoba
+974,Afiliado 0974,9,M,Plan C,2024-09-05,,Activo,3,9,Bell Ville,Córdoba
+975,Afiliado 0975,46,M,Plan B,2023-11-27,,Activo,8,306,San Francisco,Córdoba
+976,Afiliado 0976,3,M,Plan A,2021-12-06,,Activo,4,66,Río Cuarto,Córdoba
+977,Afiliado 0977,26,M,Plan B,2022-07-17,,Activo,2,218,Villa Carlos Paz,Córdoba
+978,Afiliado 0978,55,M,Plan A,2020-11-14,2023-09-01,Baja,4,56,Córdoba Capital,Córdoba
+979,Afiliado 0979,60,M,Plan B,2025-10-04,,Activo,5,23,Villa Carlos Paz,Córdoba
+980,Afiliado 0980,12,M,Plan A,2023-05-20,,Activo,10,106,Alta Gracia,Córdoba
+981,Afiliado 0981,3,M,Plan A,2022-01-26,,Activo,3,383,Villa María,Córdoba
+982,Afiliado 0982,64,M,Plan A,2023-11-25,,Activo,9,292,Villa Carlos Paz,Córdoba
+983,Afiliado 0983,1,M,Plan B,2021-02-09,,Activo,4,145,Río Cuarto,Córdoba
+984,Afiliado 0984,12,M,Plan A,2026-01-09,2026-03-26,Baja,9,363,Bell Ville,Córdoba
+985,Afiliado 0985,23,F,Plan B,2024-02-10,,Activo,2,93,San Francisco,Córdoba
+986,Afiliado 0986,65,M,Plan A,2024-04-03,,Activo,7,58,San Francisco,Córdoba
+987,Afiliado 0987,66,M,Plan A,2021-05-21,,Activo,8,391,San Francisco,Córdoba
+988,Afiliado 0988,5,M,Plan B,2023-03-26,,Activo,6,253,Villa Carlos Paz,Córdoba
+989,Afiliado 0989,76,F,Plan B,2024-04-25,,Activo,8,116,Jesús María,Córdoba
+990,Afiliado 0990,54,M,Plan A,2023-04-05,,Activo,2,244,San Francisco,Córdoba
+991,Afiliado 0991,62,M,Plan B,2022-01-04,2025-11-14,Baja,7,225,Villa Carlos Paz,Córdoba
+992,Afiliado 0992,75,M,Plan C,2021-05-03,2023-08-31,Baja,3,34,San Francisco,Córdoba
+993,Afiliado 0993,76,F,Plan B,2022-03-26,,Activo,2,120,Jesús María,Córdoba
+994,Afiliado 0994,74,F,Plan A,2025-08-06,,Activo,7,183,Bell Ville,Córdoba
+995,Afiliado 0995,65,F,Plan A,2024-07-14,,Activo,3,394,Bell Ville,Córdoba
+996,Afiliado 0996,63,M,Plan C,2021-03-18,2024-01-14,Baja,3,16,Villa Carlos Paz,Córdoba
+997,Afiliado 0997,63,M,Plan A,2020-08-04,,Activo,3,196,San Francisco,Córdoba
+998,Afiliado 0998,79,M,Plan C,2021-09-17,,Activo,2,339,Bell Ville,Córdoba
+999,Afiliado 0999,84,F,Plan B,2025-03-23,,Activo,8,259,Villa María,Córdoba
+1000,Afiliado 1000,69,M,Plan C,2026-01-30,,Activo,1,221,Villa Carlos Paz,Córdoba
+1001,Afiliado 1001,48,F,Plan B,2024-04-20,,Activo,8,19,Córdoba Capital,Córdoba
+1002,Afiliado 1002,38,M,Plan C,2021-12-25,,Activo,8,221,Río Cuarto,Córdoba
+1003,Afiliado 1003,62,M,Plan A,2023-07-03,,Activo,10,346,Bell Ville,Córdoba
+1004,Afiliado 1004,73,F,Plan B,2026-03-18,,Activo,8,288,Río Cuarto,Córdoba
+1005,Afiliado 1005,63,F,Plan A,2025-09-06,2025-12-12,Baja,10,347,San Francisco,Córdoba
+1006,Afiliado 1006,3,M,Plan A,2023-03-11,,Activo,3,188,San Francisco,Córdoba
+1007,Afiliado 1007,80,F,Plan B,2020-04-20,,Activo,7,50,Jesús María,Córdoba
+1008,Afiliado 1008,52,F,Plan C,2023-11-14,,Activo,1,339,Alta Gracia,Córdoba
+1009,Afiliado 1009,39,M,Plan C,2022-10-11,,Activo,2,157,Villa Carlos Paz,Córdoba
+1010,Afiliado 1010,68,F,Plan B,2023-10-14,,Activo,1,236,Jesús María,Córdoba
+1011,Afiliado 1011,34,M,Plan A,2025-10-09,,Activo,8,302,Córdoba Capital,Córdoba
+1012,Afiliado 1012,49,F,Plan A,2023-07-20,,Activo,10,51,Bell Ville,Córdoba
+1013,Afiliado 1013,26,F,Plan B,2021-02-13,,Activo,8,258,San Francisco,Córdoba
+1014,Afiliado 1014,46,F,Plan A,2021-11-13,,Activo,4,255,Villa Carlos Paz,Córdoba
+1015,Afiliado 1015,33,M,Plan A,2026-01-03,,Activo,5,294,Jesús María,Córdoba
+1016,Afiliado 1016,11,M,Plan A,2022-07-14,,Activo,10,173,Villa María,Córdoba
+1017,Afiliado 1017,67,F,Plan A,2020-10-02,,Activo,7,108,San Francisco,Córdoba
+1018,Afiliado 1018,38,F,Plan A,2020-11-10,,Activo,7,340,San Francisco,Córdoba
+1019,Afiliado 1019,32,F,Plan A,2022-03-30,,Activo,9,93,Córdoba Capital,Córdoba
+1020,Afiliado 1020,73,F,Plan A,2025-10-15,,Activo,4,339,Bell Ville,Córdoba
+1021,Afiliado 1021,68,F,Plan A,2023-01-02,,Activo,10,373,Córdoba Capital,Córdoba
+1022,Afiliado 1022,59,M,Plan C,2025-11-09,,Activo,4,78,Villa María,Córdoba
+1023,Afiliado 1023,8,M,Plan A,2024-11-18,,Activo,7,137,Villa María,Córdoba
+1024,Afiliado 1024,76,M,Plan A,2021-10-19,,Activo,7,123,Villa Carlos Paz,Córdoba
+1025,Afiliado 1025,31,F,Plan B,2021-09-06,,Activo,8,249,Jesús María,Córdoba
+1026,Afiliado 1026,4,M,Plan A,2024-09-24,,Activo,3,140,Río Cuarto,Córdoba
+1027,Afiliado 1027,35,M,Plan C,2020-04-29,,Activo,1,370,Bell Ville,Córdoba
+1028,Afiliado 1028,40,F,Plan B,2020-03-22,2021-03-30,Baja,2,209,San Francisco,Córdoba
+1029,Afiliado 1029,17,M,Plan A,2021-01-04,,Activo,2,293,Villa Carlos Paz,Córdoba
+1030,Afiliado 1030,74,F,Plan A,2025-11-07,,Activo,8,47,Alta Gracia,Córdoba
+1031,Afiliado 1031,40,F,Plan C,2021-05-15,,Activo,10,378,Jesús María,Córdoba
+1032,Afiliado 1032,27,M,Plan C,2022-08-24,,Activo,2,90,Alta Gracia,Córdoba
+1033,Afiliado 1033,32,M,Plan A,2023-01-29,,Activo,8,274,San Francisco,Córdoba
+1034,Afiliado 1034,54,F,Plan B,2021-04-07,,Activo,4,143,Río Cuarto,Córdoba
+1035,Afiliado 1035,47,F,Plan A,2024-01-26,,Activo,1,331,Córdoba Capital,Córdoba
+1036,Afiliado 1036,85,M,Plan C,2020-08-11,,Activo,5,283,Jesús María,Córdoba
+1037,Afiliado 1037,46,M,Plan A,2023-06-20,,Activo,9,122,Bell Ville,Córdoba
+1038,Afiliado 1038,32,F,Plan C,2024-05-10,2025-07-16,Baja,2,388,Alta Gracia,Córdoba
+1039,Afiliado 1039,20,F,Plan B,2023-05-03,,Activo,6,393,Jesús María,Córdoba
+1040,Afiliado 1040,10,F,Plan B,2020-05-18,,Activo,8,378,Jesús María,Córdoba
+1041,Afiliado 1041,12,M,Plan B,2023-09-24,,Activo,5,260,Villa Carlos Paz,Córdoba
+1042,Afiliado 1042,70,F,Plan A,2023-12-12,,Activo,8,356,Córdoba Capital,Córdoba
+1043,Afiliado 1043,23,F,Plan A,2020-08-01,,Activo,3,2,Jesús María,Córdoba
+1044,Afiliado 1044,40,M,Plan A,2022-03-30,,Activo,2,81,Alta Gracia,Córdoba
+1045,Afiliado 1045,83,M,Plan A,2025-10-16,,Activo,10,352,Jesús María,Córdoba
+1046,Afiliado 1046,17,F,Plan B,2023-08-01,,Activo,3,352,San Francisco,Córdoba
+1047,Afiliado 1047,53,F,Plan A,2023-02-28,,Activo,3,202,Jesús María,Córdoba
+1048,Afiliado 1048,71,M,Plan A,2022-07-08,2022-09-23,Baja,2,237,Alta Gracia,Córdoba
+1049,Afiliado 1049,21,M,Plan C,2022-12-08,,Activo,7,317,Jesús María,Córdoba
+1050,Afiliado 1050,21,M,Plan C,2022-12-01,2025-01-22,Baja,1,368,Jesús María,Córdoba
+1051,Afiliado 1051,63,M,Plan C,2025-02-01,,Activo,4,366,Alta Gracia,Córdoba
+1052,Afiliado 1052,34,F,Plan C,2022-02-19,,Activo,8,196,Río Cuarto,Córdoba
+1053,Afiliado 1053,76,M,Plan A,2024-11-01,,Activo,5,373,Alta Gracia,Córdoba
+1054,Afiliado 1054,18,M,Plan A,2024-09-09,,Activo,5,135,Alta Gracia,Córdoba
+1055,Afiliado 1055,47,F,Plan B,2025-01-21,,Activo,2,6,Bell Ville,Córdoba
+1056,Afiliado 1056,50,M,Plan B,2021-06-29,,Activo,7,363,Jesús María,Córdoba
+1057,Afiliado 1057,7,M,Plan A,2022-11-15,2026-01-28,Baja,6,121,Bell Ville,Córdoba
+1058,Afiliado 1058,85,M,Plan B,2023-12-22,,Activo,1,130,Jesús María,Córdoba
+1059,Afiliado 1059,85,F,Plan A,2023-05-24,,Activo,3,287,Córdoba Capital,Córdoba
+1060,Afiliado 1060,64,F,Plan A,2022-01-04,,Activo,6,240,Río Cuarto,Córdoba
+1061,Afiliado 1061,67,F,Plan B,2021-01-02,,Activo,3,134,Villa Carlos Paz,Córdoba
+1062,Afiliado 1062,63,F,Plan B,2023-07-07,2023-12-14,Baja,6,221,Villa María,Córdoba
+1063,Afiliado 1063,33,F,Plan B,2022-12-14,,Activo,7,85,San Francisco,Córdoba
+1064,Afiliado 1064,19,F,Plan A,2025-07-05,,Activo,1,97,Río Cuarto,Córdoba
+1065,Afiliado 1065,4,F,Plan C,2020-08-11,,Activo,5,84,Bell Ville,Córdoba
+1066,Afiliado 1066,63,M,Plan A,2024-11-22,2026-03-25,Baja,8,183,Bell Ville,Córdoba
+1067,Afiliado 1067,18,M,Plan A,2025-02-17,,Activo,6,48,Alta Gracia,Córdoba
+1068,Afiliado 1068,21,F,Plan C,2023-03-09,,Activo,10,340,Alta Gracia,Córdoba
+1069,Afiliado 1069,73,M,Plan C,2020-01-17,,Activo,7,40,Alta Gracia,Córdoba
+1070,Afiliado 1070,42,M,Plan C,2025-08-02,,Activo,5,349,Villa Carlos Paz,Córdoba
+1071,Afiliado 1071,13,F,Plan B,2024-06-02,,Activo,3,15,Villa Carlos Paz,Córdoba
+1072,Afiliado 1072,84,F,Plan B,2025-02-28,,Activo,8,322,Villa María,Córdoba
+1073,Afiliado 1073,5,F,Plan B,2020-01-24,,Activo,6,375,Río Cuarto,Córdoba
+1074,Afiliado 1074,82,F,Plan A,2022-05-15,,Activo,6,29,Villa Carlos Paz,Córdoba
+1075,Afiliado 1075,48,M,Plan A,2026-02-19,,Activo,7,131,Río Cuarto,Córdoba
+1076,Afiliado 1076,51,M,Plan A,2022-09-10,,Activo,1,107,Río Cuarto,Córdoba
+1077,Afiliado 1077,36,M,Plan A,2024-05-10,,Activo,2,153,Bell Ville,Córdoba
+1078,Afiliado 1078,39,M,Plan B,2024-11-05,,Activo,6,341,Villa Carlos Paz,Córdoba
+1079,Afiliado 1079,62,F,Plan A,2024-02-14,,Activo,7,244,Villa María,Córdoba
+1080,Afiliado 1080,47,M,Plan A,2024-09-28,2026-01-03,Baja,7,323,Jesús María,Córdoba
+1081,Afiliado 1081,59,M,Plan A,2021-01-15,2023-01-14,Baja,3,254,Villa Carlos Paz,Córdoba
+1082,Afiliado 1082,10,F,Plan B,2023-04-05,,Activo,5,77,Río Cuarto,Córdoba
+1083,Afiliado 1083,66,F,Plan A,2023-05-15,,Activo,5,292,Córdoba Capital,Córdoba
+1084,Afiliado 1084,5,M,Plan C,2026-03-06,,Activo,9,218,Jesús María,Córdoba
+1085,Afiliado 1085,72,F,Plan A,2021-01-22,,Activo,6,131,Villa Carlos Paz,Córdoba
+1086,Afiliado 1086,84,F,Plan A,2025-08-24,2026-03-31,Baja,3,94,Jesús María,Córdoba
+1087,Afiliado 1087,40,F,Plan B,2020-07-04,2023-12-05,Baja,8,320,Villa María,Córdoba
+1088,Afiliado 1088,23,M,Plan B,2023-10-30,,Activo,3,41,Villa María,Córdoba
+1089,Afiliado 1089,2,M,Plan A,2021-03-11,,Activo,7,60,Córdoba Capital,Córdoba
+1090,Afiliado 1090,58,F,Plan B,2021-12-04,,Activo,10,372,Bell Ville,Córdoba
+1091,Afiliado 1091,78,F,Plan B,2023-05-25,,Activo,7,155,Villa Carlos Paz,Córdoba
+1092,Afiliado 1092,14,M,Plan A,2021-05-27,2022-07-21,Baja,4,14,Alta Gracia,Córdoba
+1093,Afiliado 1093,83,M,Plan C,2025-05-24,,Activo,7,321,Alta Gracia,Córdoba
+1094,Afiliado 1094,59,M,Plan B,2020-12-18,,Activo,8,217,Córdoba Capital,Córdoba
+1095,Afiliado 1095,19,F,Plan B,2021-04-22,,Activo,8,242,Córdoba Capital,Córdoba
+1096,Afiliado 1096,25,F,Plan C,2025-01-15,,Activo,10,201,Córdoba Capital,Córdoba
+1097,Afiliado 1097,55,F,Plan C,2023-09-29,2025-08-04,Baja,8,378,Villa María,Córdoba
+1098,Afiliado 1098,62,F,Plan B,2020-05-31,,Activo,4,366,Córdoba Capital,Córdoba
+1099,Afiliado 1099,40,M,Plan B,2025-12-03,2026-03-16,Baja,5,332,Jesús María,Córdoba
+1100,Afiliado 1100,57,F,Plan B,2025-04-22,2025-11-15,Baja,1,83,Villa María,Córdoba
+1101,Afiliado 1101,56,M,Plan B,2022-02-26,,Activo,9,113,San Francisco,Córdoba
+1102,Afiliado 1102,49,F,Plan B,2025-04-02,2025-09-29,Baja,6,242,Río Cuarto,Córdoba
+1103,Afiliado 1103,11,F,Plan B,2022-04-28,,Activo,3,89,Alta Gracia,Córdoba
+1104,Afiliado 1104,12,F,Plan A,2021-10-02,,Activo,8,156,Alta Gracia,Córdoba
+1105,Afiliado 1105,2,F,Plan C,2022-05-07,,Activo,5,183,Río Cuarto,Córdoba
+1106,Afiliado 1106,64,M,Plan C,2021-12-16,,Activo,2,173,Jesús María,Córdoba
+1107,Afiliado 1107,15,M,Plan A,2021-04-11,,Activo,8,133,San Francisco,Córdoba
+1108,Afiliado 1108,71,F,Plan B,2023-12-26,,Activo,3,354,Villa Carlos Paz,Córdoba
+1109,Afiliado 1109,56,F,Plan A,2020-07-25,,Activo,2,55,Villa Carlos Paz,Córdoba
+1110,Afiliado 1110,21,M,Plan A,2020-06-20,,Activo,4,186,Río Cuarto,Córdoba
+1111,Afiliado 1111,64,F,Plan B,2023-04-11,,Activo,2,79,San Francisco,Córdoba
+1112,Afiliado 1112,15,M,Plan A,2023-10-02,,Activo,8,213,Córdoba Capital,Córdoba
+1113,Afiliado 1113,60,F,Plan B,2022-10-01,,Activo,5,259,Río Cuarto,Córdoba
+1114,Afiliado 1114,53,F,Plan B,2020-12-15,,Activo,4,78,Jesús María,Córdoba
+1115,Afiliado 1115,52,F,Plan B,2022-07-23,2025-01-16,Baja,8,265,San Francisco,Córdoba
+1116,Afiliado 1116,1,M,Plan A,2020-05-01,,Activo,2,174,San Francisco,Córdoba
+1117,Afiliado 1117,21,F,Plan A,2024-07-03,,Activo,1,202,Córdoba Capital,Córdoba
+1118,Afiliado 1118,7,F,Plan B,2021-09-10,,Activo,7,206,Villa María,Córdoba
+1119,Afiliado 1119,1,F,Plan C,2023-07-08,,Activo,9,313,Río Cuarto,Córdoba
+1120,Afiliado 1120,26,F,Plan B,2024-07-12,,Activo,6,333,Jesús María,Córdoba
+1121,Afiliado 1121,10,M,Plan A,2022-03-19,,Activo,9,172,Jesús María,Córdoba
+1122,Afiliado 1122,69,F,Plan B,2021-05-31,,Activo,4,48,Villa María,Córdoba
+1123,Afiliado 1123,81,M,Plan B,2025-11-05,,Activo,1,15,Villa María,Córdoba
+1124,Afiliado 1124,38,F,Plan B,2022-09-15,,Activo,9,57,Córdoba Capital,Córdoba
+1125,Afiliado 1125,64,F,Plan A,2024-03-07,,Activo,2,25,Villa Carlos Paz,Córdoba
+1126,Afiliado 1126,0,F,Plan B,2025-01-12,,Activo,6,121,Alta Gracia,Córdoba
+1127,Afiliado 1127,85,M,Plan B,2023-12-05,,Activo,7,267,Alta Gracia,Córdoba
+1128,Afiliado 1128,74,M,Plan C,2021-03-07,,Activo,6,233,Villa Carlos Paz,Córdoba
+1129,Afiliado 1129,52,M,Plan A,2021-08-23,,Activo,2,32,Jesús María,Córdoba
+1130,Afiliado 1130,57,M,Plan B,2021-06-16,,Activo,6,347,Jesús María,Córdoba
+1131,Afiliado 1131,33,F,Plan C,2025-10-26,,Activo,7,226,Bell Ville,Córdoba
+1132,Afiliado 1132,18,M,Plan A,2024-09-03,,Activo,8,365,Bell Ville,Córdoba
+1133,Afiliado 1133,65,M,Plan C,2021-06-13,,Activo,4,234,Bell Ville,Córdoba
+1134,Afiliado 1134,71,F,Plan B,2020-05-13,,Activo,2,309,Jesús María,Córdoba
+1135,Afiliado 1135,37,M,Plan A,2021-03-27,2024-07-09,Baja,9,79,Villa Carlos Paz,Córdoba
+1136,Afiliado 1136,47,F,Plan A,2024-03-01,,Activo,5,249,Córdoba Capital,Córdoba
+1137,Afiliado 1137,53,M,Plan B,2021-08-08,2024-12-27,Baja,5,146,Alta Gracia,Córdoba
+1138,Afiliado 1138,62,M,Plan A,2022-01-19,,Activo,2,281,San Francisco,Córdoba
+1139,Afiliado 1139,53,F,Plan B,2020-10-03,,Activo,10,159,Bell Ville,Córdoba
+1140,Afiliado 1140,60,M,Plan A,2023-10-15,,Activo,3,259,Bell Ville,Córdoba
+1141,Afiliado 1141,19,F,Plan B,2025-01-16,,Activo,2,320,Jesús María,Córdoba
+1142,Afiliado 1142,50,F,Plan A,2024-05-05,,Activo,9,24,Bell Ville,Córdoba
+1143,Afiliado 1143,21,M,Plan C,2023-02-10,,Activo,10,323,Villa María,Córdoba
+1144,Afiliado 1144,10,M,Plan C,2021-05-22,,Activo,10,278,Córdoba Capital,Córdoba
+1145,Afiliado 1145,60,M,Plan C,2025-11-07,,Activo,2,338,Río Cuarto,Córdoba
+1146,Afiliado 1146,26,M,Plan B,2020-03-18,,Activo,10,228,Villa Carlos Paz,Córdoba
+1147,Afiliado 1147,51,M,Plan A,2025-12-25,,Activo,8,12,San Francisco,Córdoba
+1148,Afiliado 1148,3,F,Plan B,2024-11-25,,Activo,7,132,Villa Carlos Paz,Córdoba
+1149,Afiliado 1149,69,M,Plan A,2021-04-14,,Activo,5,74,Río Cuarto,Córdoba
+1150,Afiliado 1150,19,F,Plan A,2022-11-12,,Activo,7,348,Río Cuarto,Córdoba
+1151,Afiliado 1151,41,M,Plan A,2020-08-29,,Activo,1,366,Córdoba Capital,Córdoba
+1152,Afiliado 1152,40,M,Plan A,2023-05-05,,Activo,7,166,Villa María,Córdoba
+1153,Afiliado 1153,15,M,Plan B,2024-03-18,,Activo,4,123,Alta Gracia,Córdoba
+1154,Afiliado 1154,64,F,Plan B,2025-07-12,,Activo,2,138,Córdoba Capital,Córdoba
+1155,Afiliado 1155,52,M,Plan A,2023-07-27,,Activo,8,15,Jesús María,Córdoba
+1156,Afiliado 1156,2,F,Plan A,2022-08-15,,Activo,9,301,Villa Carlos Paz,Córdoba
+1157,Afiliado 1157,83,M,Plan C,2022-10-05,,Activo,5,291,Jesús María,Córdoba
+1158,Afiliado 1158,64,M,Plan A,2024-12-31,2025-12-21,Baja,3,192,Río Cuarto,Córdoba
+1159,Afiliado 1159,54,F,Plan A,2022-10-01,,Activo,1,1,Bell Ville,Córdoba
+1160,Afiliado 1160,21,M,Plan A,2023-03-30,,Activo,1,247,Villa María,Córdoba
+1161,Afiliado 1161,48,F,Plan B,2022-10-24,,Activo,4,300,Villa María,Córdoba
+1162,Afiliado 1162,68,M,Plan B,2020-07-05,,Activo,5,46,Jesús María,Córdoba
+1163,Afiliado 1163,71,F,Plan A,2021-05-18,,Activo,7,108,San Francisco,Córdoba
+1164,Afiliado 1164,57,F,Plan A,2023-11-04,,Activo,4,340,San Francisco,Córdoba
+1165,Afiliado 1165,76,F,Plan B,2023-10-31,,Activo,1,355,Río Cuarto,Córdoba
+1166,Afiliado 1166,0,M,Plan B,2020-01-09,,Activo,3,212,Bell Ville,Córdoba
+1167,Afiliado 1167,83,M,Plan A,2024-05-27,,Activo,9,16,Bell Ville,Córdoba
+1168,Afiliado 1168,48,F,Plan C,2021-05-20,,Activo,7,91,Córdoba Capital,Córdoba
+1169,Afiliado 1169,24,F,Plan A,2021-05-26,,Activo,1,114,Córdoba Capital,Córdoba
+1170,Afiliado 1170,45,M,Plan A,2023-02-25,,Activo,2,315,Villa María,Córdoba
+1171,Afiliado 1171,63,F,Plan C,2022-06-24,,Activo,1,144,Bell Ville,Córdoba
+1172,Afiliado 1172,50,M,Plan A,2022-05-06,2026-01-02,Baja,5,292,Bell Ville,Córdoba
+1173,Afiliado 1173,84,M,Plan B,2021-11-29,,Activo,2,302,Río Cuarto,Córdoba
+1174,Afiliado 1174,72,M,Plan A,2020-09-23,2026-01-16,Baja,9,374,Villa María,Córdoba
+1175,Afiliado 1175,2,F,Plan A,2022-02-24,,Activo,9,233,Córdoba Capital,Córdoba
+1176,Afiliado 1176,83,M,Plan C,2024-10-15,,Activo,6,222,Jesús María,Córdoba
+1177,Afiliado 1177,59,F,Plan A,2023-01-27,2026-01-22,Baja,6,265,Córdoba Capital,Córdoba
+1178,Afiliado 1178,68,F,Plan C,2022-07-08,2024-12-14,Baja,6,3,Jesús María,Córdoba
+1179,Afiliado 1179,73,M,Plan A,2022-03-08,,Activo,4,354,Jesús María,Córdoba
+1180,Afiliado 1180,25,M,Plan A,2020-10-31,,Activo,6,160,Villa Carlos Paz,Córdoba
+1181,Afiliado 1181,3,F,Plan A,2021-01-31,2023-08-03,Baja,5,127,Villa Carlos Paz,Córdoba
+1182,Afiliado 1182,43,M,Plan B,2025-04-23,,Activo,6,267,Alta Gracia,Córdoba
+1183,Afiliado 1183,79,F,Plan A,2020-10-25,,Activo,2,321,Bell Ville,Córdoba
+1184,Afiliado 1184,4,F,Plan C,2021-05-26,2021-10-27,Baja,6,356,Villa Carlos Paz,Córdoba
+1185,Afiliado 1185,56,M,Plan A,2021-06-06,2026-01-04,Baja,5,313,Jesús María,Córdoba
+1186,Afiliado 1186,71,M,Plan C,2020-09-26,2021-02-17,Baja,5,196,Jesús María,Córdoba
+1187,Afiliado 1187,52,M,Plan A,2021-01-27,,Activo,10,338,Córdoba Capital,Córdoba
+1188,Afiliado 1188,54,M,Plan C,2025-01-31,,Activo,6,334,Córdoba Capital,Córdoba
+1189,Afiliado 1189,75,M,Plan B,2025-02-02,,Activo,2,53,Córdoba Capital,Córdoba
+1190,Afiliado 1190,24,M,Plan B,2020-10-03,,Activo,9,132,San Francisco,Córdoba
+1191,Afiliado 1191,79,F,Plan B,2024-09-20,,Activo,3,125,Río Cuarto,Córdoba
+1192,Afiliado 1192,74,F,Plan B,2020-06-29,2024-01-26,Baja,9,334,San Francisco,Córdoba
+1193,Afiliado 1193,69,M,Plan B,2023-06-28,,Activo,3,241,Villa María,Córdoba
+1194,Afiliado 1194,1,M,Plan A,2023-11-05,,Activo,1,122,Córdoba Capital,Córdoba
+1195,Afiliado 1195,25,M,Plan A,2024-09-24,,Activo,2,175,Alta Gracia,Córdoba
+1196,Afiliado 1196,59,F,Plan C,2025-05-02,,Activo,10,290,San Francisco,Córdoba
+1197,Afiliado 1197,20,M,Plan B,2023-05-12,,Activo,8,22,Bell Ville,Córdoba
+1198,Afiliado 1198,81,M,Plan B,2022-06-17,,Activo,4,239,Alta Gracia,Córdoba
+1199,Afiliado 1199,42,F,Plan A,2022-09-06,,Activo,4,205,Río Cuarto,Córdoba
+1200,Afiliado 1200,9,F,Plan A,2020-01-28,,Activo,1,285,Villa Carlos Paz,Córdoba
+1201,Afiliado 1201,24,F,Plan A,2021-08-06,,Activo,1,16,Alta Gracia,Córdoba
+1202,Afiliado 1202,28,F,Plan B,2022-03-21,,Activo,3,174,Alta Gracia,Córdoba
+1203,Afiliado 1203,22,F,Plan A,2022-01-01,,Activo,2,11,Río Cuarto,Córdoba
+1204,Afiliado 1204,14,F,Plan A,2024-04-01,,Activo,4,157,Bell Ville,Córdoba
+1205,Afiliado 1205,47,M,Plan A,2022-09-10,,Activo,9,320,Jesús María,Córdoba
+1206,Afiliado 1206,16,M,Plan A,2020-09-24,2025-10-05,Baja,4,273,Jesús María,Córdoba
+1207,Afiliado 1207,54,M,Plan B,2024-03-12,,Activo,1,391,Alta Gracia,Córdoba
+1208,Afiliado 1208,19,F,Plan A,2026-01-02,,Activo,4,28,Villa María,Córdoba
+1209,Afiliado 1209,74,F,Plan B,2021-06-01,,Activo,4,373,Villa Carlos Paz,Córdoba
+1210,Afiliado 1210,78,M,Plan A,2025-04-11,,Activo,3,261,Jesús María,Córdoba
+1211,Afiliado 1211,66,F,Plan A,2025-09-16,,Activo,3,165,San Francisco,Córdoba
+1212,Afiliado 1212,63,F,Plan A,2025-11-22,,Activo,5,298,Jesús María,Córdoba
+1213,Afiliado 1213,25,F,Plan A,2020-05-29,,Activo,4,203,Alta Gracia,Córdoba
+1214,Afiliado 1214,48,M,Plan A,2023-06-07,,Activo,6,131,Villa Carlos Paz,Córdoba
+1215,Afiliado 1215,37,F,Plan A,2021-07-04,,Activo,9,181,Alta Gracia,Córdoba
+1216,Afiliado 1216,79,F,Plan B,2020-06-17,,Activo,7,231,Bell Ville,Córdoba
+1217,Afiliado 1217,63,F,Plan A,2024-11-06,,Activo,5,196,Córdoba Capital,Córdoba
+1218,Afiliado 1218,33,M,Plan B,2022-01-05,,Activo,6,43,Villa María,Córdoba
+1219,Afiliado 1219,82,M,Plan C,2025-08-17,,Activo,5,117,Villa Carlos Paz,Córdoba
+1220,Afiliado 1220,69,M,Plan B,2021-04-30,2021-08-16,Baja,6,101,San Francisco,Córdoba
+1221,Afiliado 1221,35,M,Plan A,2022-10-21,,Activo,10,71,Villa María,Córdoba
+1222,Afiliado 1222,36,F,Plan A,2020-02-04,,Activo,7,208,Córdoba Capital,Córdoba
+1223,Afiliado 1223,19,F,Plan A,2025-04-17,,Activo,4,117,Alta Gracia,Córdoba
+1224,Afiliado 1224,75,F,Plan A,2025-04-27,,Activo,8,175,Villa Carlos Paz,Córdoba
+1225,Afiliado 1225,54,F,Plan C,2023-07-06,,Activo,4,225,Bell Ville,Córdoba
+1226,Afiliado 1226,73,M,Plan A,2020-05-03,,Activo,5,378,Córdoba Capital,Córdoba
+1227,Afiliado 1227,45,F,Plan A,2025-08-09,,Activo,4,215,Jesús María,Córdoba
+1228,Afiliado 1228,68,F,Plan B,2024-07-10,,Activo,6,301,Córdoba Capital,Córdoba
+1229,Afiliado 1229,19,F,Plan B,2020-05-11,,Activo,10,323,Jesús María,Córdoba
+1230,Afiliado 1230,50,M,Plan B,2024-04-10,,Activo,9,198,Alta Gracia,Córdoba
+1231,Afiliado 1231,57,F,Plan A,2025-04-28,2026-03-15,Baja,2,88,Villa Carlos Paz,Córdoba
+1232,Afiliado 1232,77,F,Plan A,2026-03-14,,Activo,1,96,Alta Gracia,Córdoba
+1233,Afiliado 1233,49,F,Plan B,2020-10-11,,Activo,4,120,Villa María,Córdoba
+1234,Afiliado 1234,47,M,Plan A,2025-11-17,2025-12-24,Baja,3,168,Jesús María,Córdoba
+1235,Afiliado 1235,14,M,Plan A,2024-05-20,,Activo,9,215,Bell Ville,Córdoba
+1236,Afiliado 1236,26,M,Plan A,2020-10-08,,Activo,4,159,Jesús María,Córdoba
+1237,Afiliado 1237,73,F,Plan A,2025-04-28,,Activo,10,104,Bell Ville,Córdoba
+1238,Afiliado 1238,18,F,Plan A,2023-02-02,,Activo,2,205,Alta Gracia,Córdoba
+1239,Afiliado 1239,72,F,Plan A,2025-11-23,,Activo,8,237,Córdoba Capital,Córdoba
+1240,Afiliado 1240,58,F,Plan B,2021-01-08,,Activo,5,201,Río Cuarto,Córdoba
+1241,Afiliado 1241,79,F,Plan B,2024-08-27,,Activo,8,197,Río Cuarto,Córdoba
+1242,Afiliado 1242,5,M,Plan B,2021-01-26,,Activo,3,141,Villa María,Córdoba
+1243,Afiliado 1243,27,F,Plan A,2020-09-30,,Activo,7,391,Villa Carlos Paz,Córdoba
+1244,Afiliado 1244,64,F,Plan A,2024-02-19,2024-07-05,Baja,7,231,Río Cuarto,Córdoba
+1245,Afiliado 1245,5,F,Plan A,2022-11-01,,Activo,1,38,Bell Ville,Córdoba
+1246,Afiliado 1246,51,M,Plan B,2024-04-10,,Activo,7,20,Córdoba Capital,Córdoba
+1247,Afiliado 1247,41,F,Plan B,2022-10-23,2023-08-28,Baja,8,237,Villa Carlos Paz,Córdoba
+1248,Afiliado 1248,31,F,Plan A,2020-12-04,,Activo,3,242,Villa María,Córdoba
+1249,Afiliado 1249,2,M,Plan C,2021-10-22,,Activo,3,151,Villa Carlos Paz,Córdoba
+1250,Afiliado 1250,21,M,Plan A,2025-12-29,,Activo,1,347,Villa María,Córdoba
+1251,Afiliado 1251,22,M,Plan B,2021-09-20,,Activo,1,346,Alta Gracia,Córdoba
+1252,Afiliado 1252,81,M,Plan B,2024-12-15,,Activo,7,354,Villa María,Córdoba
+1253,Afiliado 1253,6,F,Plan C,2024-12-23,2025-01-24,Baja,4,128,San Francisco,Córdoba
+1254,Afiliado 1254,2,F,Plan B,2022-09-04,,Activo,1,8,San Francisco,Córdoba
+1255,Afiliado 1255,8,M,Plan B,2022-02-26,,Activo,2,341,Río Cuarto,Córdoba
+1256,Afiliado 1256,13,F,Plan A,2021-11-15,2024-10-29,Baja,6,288,Alta Gracia,Córdoba
+1257,Afiliado 1257,50,F,Plan B,2022-04-28,,Activo,2,119,Alta Gracia,Córdoba
+1258,Afiliado 1258,22,M,Plan A,2021-03-09,,Activo,7,335,San Francisco,Córdoba
+1259,Afiliado 1259,58,M,Plan C,2020-02-19,,Activo,2,337,Villa María,Córdoba
+1260,Afiliado 1260,52,F,Plan B,2024-02-20,2024-10-30,Baja,10,256,Villa Carlos Paz,Córdoba
+1261,Afiliado 1261,72,M,Plan B,2026-01-05,,Activo,5,49,San Francisco,Córdoba
+1262,Afiliado 1262,17,F,Plan A,2024-05-10,,Activo,3,326,San Francisco,Córdoba
+1263,Afiliado 1263,77,F,Plan B,2025-05-28,2025-07-06,Baja,7,262,Alta Gracia,Córdoba
+1264,Afiliado 1264,1,M,Plan B,2025-08-24,,Activo,1,316,Villa Carlos Paz,Córdoba
+1265,Afiliado 1265,54,M,Plan B,2023-06-19,,Activo,10,41,Córdoba Capital,Córdoba
+1266,Afiliado 1266,37,M,Plan A,2021-07-17,,Activo,3,193,Alta Gracia,Córdoba
+1267,Afiliado 1267,76,F,Plan A,2020-06-04,,Activo,6,69,Villa María,Córdoba
+1268,Afiliado 1268,5,F,Plan A,2023-07-24,,Activo,5,385,Córdoba Capital,Córdoba
+1269,Afiliado 1269,42,F,Plan A,2022-07-27,,Activo,4,106,Córdoba Capital,Córdoba
+1270,Afiliado 1270,28,F,Plan C,2022-10-14,,Activo,9,165,Río Cuarto,Córdoba
+1271,Afiliado 1271,8,F,Plan A,2024-12-16,,Activo,2,99,Córdoba Capital,Córdoba
+1272,Afiliado 1272,16,M,Plan C,2021-08-02,,Activo,3,304,Alta Gracia,Córdoba
+1273,Afiliado 1273,54,F,Plan A,2022-08-25,,Activo,5,85,Alta Gracia,Córdoba
+1274,Afiliado 1274,77,M,Plan A,2022-09-30,,Activo,5,147,Bell Ville,Córdoba
+1275,Afiliado 1275,61,M,Plan B,2022-04-04,,Activo,6,204,Jesús María,Córdoba
+1276,Afiliado 1276,54,F,Plan B,2021-11-18,,Activo,3,247,Córdoba Capital,Córdoba
+1277,Afiliado 1277,10,F,Plan A,2024-04-11,,Activo,10,276,Río Cuarto,Córdoba
+1278,Afiliado 1278,32,F,Plan B,2026-03-14,,Activo,8,157,Bell Ville,Córdoba
+1279,Afiliado 1279,77,F,Plan B,2023-03-06,,Activo,2,171,Río Cuarto,Córdoba
+1280,Afiliado 1280,24,M,Plan A,2025-04-06,,Activo,1,257,San Francisco,Córdoba
+1281,Afiliado 1281,53,F,Plan C,2025-07-05,,Activo,6,197,Bell Ville,Córdoba
+1282,Afiliado 1282,75,M,Plan C,2023-06-14,,Activo,7,20,Villa Carlos Paz,Córdoba
+1283,Afiliado 1283,20,M,Plan B,2024-04-25,,Activo,7,131,San Francisco,Córdoba
+1284,Afiliado 1284,81,F,Plan A,2025-09-18,,Activo,1,334,Jesús María,Córdoba
+1285,Afiliado 1285,31,F,Plan B,2024-10-02,,Activo,1,186,Córdoba Capital,Córdoba
+1286,Afiliado 1286,58,M,Plan A,2021-08-28,,Activo,5,127,Río Cuarto,Córdoba
+1287,Afiliado 1287,82,F,Plan A,2020-02-20,2021-04-03,Baja,7,362,Villa Carlos Paz,Córdoba
+1288,Afiliado 1288,54,M,Plan A,2025-10-24,,Activo,7,130,Villa María,Córdoba
+1289,Afiliado 1289,84,F,Plan A,2025-08-12,,Activo,10,158,Jesús María,Córdoba
+1290,Afiliado 1290,44,M,Plan C,2020-12-30,2024-04-15,Baja,5,384,Alta Gracia,Córdoba
+1291,Afiliado 1291,0,M,Plan B,2024-06-18,,Activo,8,1,Villa Carlos Paz,Córdoba
+1292,Afiliado 1292,53,F,Plan B,2020-10-13,,Activo,5,376,Jesús María,Córdoba
+1293,Afiliado 1293,23,M,Plan A,2021-11-29,,Activo,4,250,Río Cuarto,Córdoba
+1294,Afiliado 1294,57,M,Plan A,2025-08-20,,Activo,3,103,Córdoba Capital,Córdoba
+1295,Afiliado 1295,24,F,Plan A,2022-01-18,,Activo,7,226,Villa Carlos Paz,Córdoba
+1296,Afiliado 1296,48,M,Plan C,2021-11-11,2022-06-04,Baja,5,33,San Francisco,Córdoba
+1297,Afiliado 1297,61,F,Plan A,2020-05-01,,Activo,2,5,Córdoba Capital,Córdoba
+1298,Afiliado 1298,0,M,Plan C,2022-12-25,,Activo,2,109,Córdoba Capital,Córdoba
+1299,Afiliado 1299,34,F,Plan B,2024-03-18,,Activo,8,388,San Francisco,Córdoba
+1300,Afiliado 1300,43,F,Plan A,2024-10-25,,Activo,4,185,Jesús María,Córdoba
+1301,Afiliado 1301,45,F,Plan B,2024-03-30,,Activo,2,2,Bell Ville,Córdoba
+1302,Afiliado 1302,17,M,Plan A,2024-07-03,,Activo,10,63,Villa María,Córdoba
+1303,Afiliado 1303,79,F,Plan C,2022-10-15,,Activo,9,212,Alta Gracia,Córdoba
+1304,Afiliado 1304,41,M,Plan C,2020-01-13,,Activo,6,24,San Francisco,Córdoba
+1305,Afiliado 1305,62,F,Plan A,2024-12-24,,Activo,10,42,San Francisco,Córdoba
+1306,Afiliado 1306,60,M,Plan A,2024-10-18,,Activo,7,151,Alta Gracia,Córdoba
+1307,Afiliado 1307,73,M,Plan B,2021-08-09,,Activo,3,255,Villa Carlos Paz,Córdoba
+1308,Afiliado 1308,70,F,Plan C,2023-05-19,,Activo,3,229,Villa Carlos Paz,Córdoba
+1309,Afiliado 1309,30,M,Plan A,2025-05-28,,Activo,4,88,Villa Carlos Paz,Córdoba
+1310,Afiliado 1310,3,M,Plan B,2021-03-08,,Activo,6,197,Villa María,Córdoba
+1311,Afiliado 1311,85,F,Plan B,2022-06-21,,Activo,2,341,Río Cuarto,Córdoba
+1312,Afiliado 1312,62,M,Plan B,2025-12-29,,Activo,6,115,Villa Carlos Paz,Córdoba
+1313,Afiliado 1313,48,F,Plan A,2023-11-06,,Activo,4,115,Villa María,Córdoba
+1314,Afiliado 1314,14,M,Plan B,2021-04-18,,Activo,6,380,Alta Gracia,Córdoba
+1315,Afiliado 1315,16,F,Plan C,2021-04-20,,Activo,7,296,Córdoba Capital,Córdoba
+1316,Afiliado 1316,24,F,Plan A,2023-06-27,2025-01-25,Baja,7,164,San Francisco,Córdoba
+1317,Afiliado 1317,77,M,Plan A,2021-06-01,,Activo,2,203,Córdoba Capital,Córdoba
+1318,Afiliado 1318,40,M,Plan C,2026-01-13,,Activo,5,113,Bell Ville,Córdoba
+1319,Afiliado 1319,18,M,Plan A,2025-02-09,2025-08-03,Baja,10,164,Villa María,Córdoba
+1320,Afiliado 1320,15,F,Plan C,2025-08-19,,Activo,10,245,Alta Gracia,Córdoba
+1321,Afiliado 1321,48,M,Plan A,2025-07-20,,Activo,6,79,Alta Gracia,Córdoba
+1322,Afiliado 1322,6,M,Plan A,2022-07-10,,Activo,8,373,Jesús María,Córdoba
+1323,Afiliado 1323,84,M,Plan C,2023-05-10,,Activo,1,281,Jesús María,Córdoba
+1324,Afiliado 1324,60,F,Plan A,2023-10-14,,Activo,7,201,Villa Carlos Paz,Córdoba
+1325,Afiliado 1325,36,M,Plan B,2025-12-02,,Activo,9,202,Villa Carlos Paz,Córdoba
+1326,Afiliado 1326,74,M,Plan A,2021-06-20,,Activo,5,235,Río Cuarto,Córdoba
+1327,Afiliado 1327,61,F,Plan B,2021-07-17,,Activo,3,108,Alta Gracia,Córdoba
+1328,Afiliado 1328,1,F,Plan A,2022-03-12,,Activo,10,53,Río Cuarto,Córdoba
+1329,Afiliado 1329,54,M,Plan A,2024-03-22,,Activo,1,50,San Francisco,Córdoba
+1330,Afiliado 1330,6,M,Plan C,2025-04-24,,Activo,9,333,San Francisco,Córdoba
+1331,Afiliado 1331,80,F,Plan A,2024-11-11,,Activo,4,18,Villa Carlos Paz,Córdoba
+1332,Afiliado 1332,38,M,Plan B,2022-09-13,,Activo,7,398,Villa Carlos Paz,Córdoba
+1333,Afiliado 1333,83,F,Plan A,2025-03-14,,Activo,5,324,Bell Ville,Córdoba
+1334,Afiliado 1334,10,M,Plan B,2024-02-13,2024-07-11,Baja,8,329,Alta Gracia,Córdoba
+1335,Afiliado 1335,73,F,Plan A,2020-04-04,,Activo,5,356,Villa Carlos Paz,Córdoba
+1336,Afiliado 1336,82,F,Plan C,2022-01-11,,Activo,5,293,Río Cuarto,Córdoba
+1337,Afiliado 1337,68,M,Plan A,2021-02-11,,Activo,7,359,Córdoba Capital,Córdoba
+1338,Afiliado 1338,68,F,Plan A,2024-05-31,,Activo,2,266,Villa Carlos Paz,Córdoba
+1339,Afiliado 1339,15,M,Plan A,2022-04-29,,Activo,10,356,Río Cuarto,Córdoba
+1340,Afiliado 1340,40,M,Plan A,2020-01-22,,Activo,1,66,Alta Gracia,Córdoba
+1341,Afiliado 1341,4,M,Plan B,2021-10-22,2023-04-30,Baja,2,260,Villa María,Córdoba
+1342,Afiliado 1342,21,F,Plan A,2024-01-29,,Activo,1,128,Villa María,Córdoba
+1343,Afiliado 1343,66,F,Plan B,2020-07-08,,Activo,9,228,Río Cuarto,Córdoba
+1344,Afiliado 1344,66,F,Plan A,2025-07-01,,Activo,10,276,Alta Gracia,Córdoba
+1345,Afiliado 1345,5,M,Plan A,2021-02-09,,Activo,1,97,Río Cuarto,Córdoba
+1346,Afiliado 1346,27,M,Plan B,2023-05-12,,Activo,10,283,Alta Gracia,Córdoba
+1347,Afiliado 1347,79,F,Plan B,2024-01-10,,Activo,2,282,Villa María,Córdoba
+1348,Afiliado 1348,20,F,Plan A,2022-12-03,,Activo,8,43,Villa María,Córdoba
+1349,Afiliado 1349,18,M,Plan A,2024-10-08,,Activo,2,323,Villa María,Córdoba
+1350,Afiliado 1350,72,M,Plan A,2022-02-28,,Activo,7,79,San Francisco,Córdoba
+1351,Afiliado 1351,77,M,Plan B,2024-11-11,,Activo,2,139,Villa Carlos Paz,Córdoba
+1352,Afiliado 1352,52,M,Plan B,2025-12-16,2026-03-26,Baja,6,328,Villa Carlos Paz,Córdoba
+1353,Afiliado 1353,34,M,Plan A,2024-01-26,,Activo,4,141,Córdoba Capital,Córdoba
+1354,Afiliado 1354,28,F,Plan B,2021-02-05,,Activo,2,64,Río Cuarto,Córdoba
+1355,Afiliado 1355,39,F,Plan B,2025-11-26,,Activo,2,271,San Francisco,Córdoba
+1356,Afiliado 1356,77,M,Plan B,2023-03-01,,Activo,1,88,San Francisco,Córdoba
+1357,Afiliado 1357,68,F,Plan C,2024-05-14,,Activo,8,304,Río Cuarto,Córdoba
+1358,Afiliado 1358,19,M,Plan A,2022-11-27,2025-11-12,Baja,3,194,Villa María,Córdoba
+1359,Afiliado 1359,81,F,Plan A,2020-08-04,,Activo,4,348,Jesús María,Córdoba
+1360,Afiliado 1360,45,F,Plan A,2025-02-18,,Activo,9,147,Villa María,Córdoba
+1361,Afiliado 1361,29,F,Plan A,2024-10-18,,Activo,2,157,Jesús María,Córdoba
+1362,Afiliado 1362,81,M,Plan B,2023-07-04,,Activo,2,374,Alta Gracia,Córdoba
+1363,Afiliado 1363,7,M,Plan C,2021-01-18,,Activo,5,284,Bell Ville,Córdoba
+1364,Afiliado 1364,54,M,Plan A,2020-02-13,,Activo,8,255,Villa Carlos Paz,Córdoba
+1365,Afiliado 1365,0,F,Plan A,2024-07-18,2025-02-27,Baja,9,384,San Francisco,Córdoba
+1366,Afiliado 1366,84,M,Plan A,2022-09-27,,Activo,10,230,Río Cuarto,Córdoba
+1367,Afiliado 1367,22,M,Plan C,2025-11-14,,Activo,6,69,San Francisco,Córdoba
+1368,Afiliado 1368,48,M,Plan A,2020-07-27,,Activo,6,58,San Francisco,Córdoba
+1369,Afiliado 1369,15,F,Plan B,2022-10-20,,Activo,5,248,Villa María,Córdoba
+1370,Afiliado 1370,80,F,Plan A,2022-12-20,,Activo,4,157,Córdoba Capital,Córdoba
+1371,Afiliado 1371,62,M,Plan A,2025-03-11,,Activo,6,4,Bell Ville,Córdoba
+1372,Afiliado 1372,13,M,Plan C,2023-09-07,,Activo,6,370,Río Cuarto,Córdoba
+1373,Afiliado 1373,12,F,Plan C,2024-07-04,,Activo,8,102,Villa Carlos Paz,Córdoba
+1374,Afiliado 1374,19,F,Plan A,2025-12-07,,Activo,2,250,Córdoba Capital,Córdoba
+1375,Afiliado 1375,32,M,Plan C,2021-09-29,,Activo,8,203,San Francisco,Córdoba
+1376,Afiliado 1376,23,F,Plan B,2023-05-10,,Activo,2,225,Bell Ville,Córdoba
+1377,Afiliado 1377,55,M,Plan C,2021-10-24,2026-01-31,Baja,6,364,Alta Gracia,Córdoba
+1378,Afiliado 1378,5,M,Plan A,2021-03-29,,Activo,7,216,San Francisco,Córdoba
+1379,Afiliado 1379,25,F,Plan B,2020-05-09,,Activo,5,61,Jesús María,Córdoba
+1380,Afiliado 1380,16,F,Plan A,2025-06-26,,Activo,7,257,Jesús María,Córdoba
+1381,Afiliado 1381,2,M,Plan B,2021-06-22,2022-02-27,Baja,3,177,Córdoba Capital,Córdoba
+1382,Afiliado 1382,54,M,Plan A,2022-08-26,2024-08-25,Baja,7,246,Villa María,Córdoba
+1383,Afiliado 1383,54,M,Plan A,2023-03-01,,Activo,10,79,Río Cuarto,Córdoba
+1384,Afiliado 1384,14,F,Plan A,2022-10-18,,Activo,4,342,Jesús María,Córdoba
+1385,Afiliado 1385,13,M,Plan B,2022-03-23,,Activo,4,303,Río Cuarto,Córdoba
+1386,Afiliado 1386,4,F,Plan A,2022-07-28,2024-11-25,Baja,4,75,Jesús María,Córdoba
+1387,Afiliado 1387,11,M,Plan B,2020-03-13,,Activo,7,209,Villa María,Córdoba
+1388,Afiliado 1388,54,F,Plan C,2022-08-05,,Activo,1,262,Jesús María,Córdoba
+1389,Afiliado 1389,34,F,Plan A,2020-07-30,,Activo,5,180,Jesús María,Córdoba
+1390,Afiliado 1390,6,M,Plan B,2022-10-08,,Activo,1,1,Córdoba Capital,Córdoba
+1391,Afiliado 1391,60,F,Plan A,2023-08-10,,Activo,10,52,Jesús María,Córdoba
+1392,Afiliado 1392,62,F,Plan C,2022-01-27,,Activo,6,156,Villa Carlos Paz,Córdoba
+1393,Afiliado 1393,70,M,Plan A,2021-01-31,,Activo,6,185,San Francisco,Córdoba
+1394,Afiliado 1394,30,F,Plan B,2025-12-06,,Activo,4,300,Jesús María,Córdoba
+1395,Afiliado 1395,16,M,Plan B,2020-12-23,,Activo,1,301,Alta Gracia,Córdoba
+1396,Afiliado 1396,12,M,Plan C,2022-03-01,,Activo,9,317,San Francisco,Córdoba
+1397,Afiliado 1397,25,M,Plan B,2023-05-19,,Activo,1,66,Alta Gracia,Córdoba
+1398,Afiliado 1398,32,F,Plan A,2024-09-08,,Activo,6,230,Villa Carlos Paz,Córdoba
+1399,Afiliado 1399,67,M,Plan B,2024-11-21,2025-07-23,Baja,3,307,Villa María,Córdoba
+1400,Afiliado 1400,72,M,Plan C,2021-06-12,,Activo,4,380,Jesús María,Córdoba
+1401,Afiliado 1401,65,M,Plan B,2025-07-20,,Activo,3,225,Jesús María,Córdoba
+1402,Afiliado 1402,34,M,Plan A,2024-05-17,,Activo,3,2,Río Cuarto,Córdoba
+1403,Afiliado 1403,1,F,Plan C,2022-06-11,,Activo,9,363,Villa María,Córdoba
+1404,Afiliado 1404,37,F,Plan B,2023-05-27,,Activo,9,61,Río Cuarto,Córdoba
+1405,Afiliado 1405,37,M,Plan B,2022-07-06,2023-12-05,Baja,3,143,Río Cuarto,Córdoba
+1406,Afiliado 1406,6,M,Plan A,2023-01-12,,Activo,4,274,Villa Carlos Paz,Córdoba
+1407,Afiliado 1407,80,F,Plan B,2020-01-06,,Activo,6,43,Villa María,Córdoba
+1408,Afiliado 1408,78,F,Plan A,2021-07-01,,Activo,6,30,Córdoba Capital,Córdoba
+1409,Afiliado 1409,35,M,Plan B,2023-12-27,,Activo,5,9,Villa Carlos Paz,Córdoba
+1410,Afiliado 1410,32,M,Plan A,2024-04-13,,Activo,8,113,San Francisco,Córdoba
+1411,Afiliado 1411,80,F,Plan B,2023-01-05,,Activo,3,229,Alta Gracia,Córdoba
+1412,Afiliado 1412,61,M,Plan C,2024-11-12,,Activo,8,93,Bell Ville,Córdoba
+1413,Afiliado 1413,22,M,Plan A,2022-01-27,,Activo,10,252,Río Cuarto,Córdoba
+1414,Afiliado 1414,22,F,Plan C,2023-03-01,2024-02-27,Baja,10,97,Villa Carlos Paz,Córdoba
+1415,Afiliado 1415,58,F,Plan A,2021-08-10,2023-01-24,Baja,2,371,Río Cuarto,Córdoba
+1416,Afiliado 1416,48,F,Plan C,2020-02-18,,Activo,1,57,Córdoba Capital,Córdoba
+1417,Afiliado 1417,34,M,Plan B,2020-06-28,2021-07-05,Baja,10,7,Córdoba Capital,Córdoba
+1418,Afiliado 1418,43,M,Plan B,2021-03-11,,Activo,4,72,Bell Ville,Córdoba
+1419,Afiliado 1419,39,F,Plan B,2024-12-24,,Activo,8,80,Alta Gracia,Córdoba
+1420,Afiliado 1420,34,M,Plan C,2020-08-16,,Activo,1,23,Villa Carlos Paz,Córdoba
+1421,Afiliado 1421,65,F,Plan A,2026-02-08,,Activo,3,1,Alta Gracia,Córdoba
+1422,Afiliado 1422,49,M,Plan A,2020-04-08,,Activo,6,336,Villa María,Córdoba
+1423,Afiliado 1423,49,M,Plan B,2022-07-14,,Activo,8,87,Villa Carlos Paz,Córdoba
+1424,Afiliado 1424,45,M,Plan B,2022-07-08,2024-03-06,Baja,10,171,Villa Carlos Paz,Córdoba
+1425,Afiliado 1425,10,M,Plan B,2024-01-16,,Activo,10,78,Río Cuarto,Córdoba
+1426,Afiliado 1426,76,M,Plan B,2024-10-21,,Activo,7,77,Villa María,Córdoba
+1427,Afiliado 1427,13,F,Plan A,2023-03-21,,Activo,8,339,San Francisco,Córdoba
+1428,Afiliado 1428,9,M,Plan B,2022-12-23,,Activo,3,399,Río Cuarto,Córdoba
+1429,Afiliado 1429,61,M,Plan A,2023-08-04,2024-12-03,Baja,2,296,Jesús María,Córdoba
+1430,Afiliado 1430,16,M,Plan B,2023-02-14,2025-01-05,Baja,7,181,San Francisco,Córdoba
+1431,Afiliado 1431,52,F,Plan A,2025-07-17,,Activo,3,335,Alta Gracia,Córdoba
+1432,Afiliado 1432,63,F,Plan A,2024-04-18,,Activo,9,275,Alta Gracia,Córdoba
+1433,Afiliado 1433,67,M,Plan A,2024-04-24,2025-07-29,Baja,2,121,San Francisco,Córdoba
+1434,Afiliado 1434,2,F,Plan A,2020-01-12,,Activo,9,243,Río Cuarto,Córdoba
+1435,Afiliado 1435,46,M,Plan B,2021-03-27,2023-04-11,Baja,5,236,Río Cuarto,Córdoba
+1436,Afiliado 1436,53,M,Plan A,2026-03-08,,Activo,4,115,Córdoba Capital,Córdoba
+1437,Afiliado 1437,18,F,Plan A,2021-07-18,2025-07-11,Baja,1,357,Jesús María,Córdoba
+1438,Afiliado 1438,84,M,Plan A,2024-03-02,2024-07-18,Baja,8,305,Río Cuarto,Córdoba
+1439,Afiliado 1439,10,M,Plan A,2020-05-03,2022-01-01,Baja,2,7,Jesús María,Córdoba
+1440,Afiliado 1440,60,M,Plan A,2021-09-05,,Activo,9,358,Villa María,Córdoba
+1441,Afiliado 1441,43,F,Plan A,2025-04-09,,Activo,1,147,Villa Carlos Paz,Córdoba
+1442,Afiliado 1442,4,M,Plan B,2021-09-30,2025-06-06,Baja,9,83,Córdoba Capital,Córdoba
+1443,Afiliado 1443,58,F,Plan B,2024-06-11,,Activo,10,257,Villa María,Córdoba
+1444,Afiliado 1444,20,F,Plan B,2022-07-20,,Activo,2,268,Jesús María,Córdoba
+1445,Afiliado 1445,51,M,Plan A,2021-05-27,,Activo,4,201,Río Cuarto,Córdoba
+1446,Afiliado 1446,59,F,Plan A,2020-11-12,,Activo,6,335,Jesús María,Córdoba
+1447,Afiliado 1447,47,F,Plan C,2024-04-07,,Activo,4,139,Villa Carlos Paz,Córdoba
+1448,Afiliado 1448,42,M,Plan B,2021-03-03,2024-08-19,Baja,4,145,Río Cuarto,Córdoba
+1449,Afiliado 1449,76,M,Plan A,2026-01-27,2026-03-11,Baja,5,97,Alta Gracia,Córdoba
+1450,Afiliado 1450,10,M,Plan A,2020-05-12,,Activo,10,248,Córdoba Capital,Córdoba
+1451,Afiliado 1451,39,M,Plan A,2020-07-15,,Activo,6,385,Villa María,Córdoba
+1452,Afiliado 1452,40,F,Plan A,2024-06-18,,Activo,6,67,Villa Carlos Paz,Córdoba
+1453,Afiliado 1453,64,M,Plan A,2023-09-19,,Activo,9,397,Río Cuarto,Córdoba
+1454,Afiliado 1454,48,F,Plan B,2020-04-07,,Activo,10,20,Villa María,Córdoba
+1455,Afiliado 1455,59,M,Plan B,2021-10-22,,Activo,2,368,Alta Gracia,Córdoba
+1456,Afiliado 1456,83,M,Plan B,2022-06-02,,Activo,3,257,San Francisco,Córdoba
+1457,Afiliado 1457,43,F,Plan B,2025-01-06,,Activo,6,320,Jesús María,Córdoba
+1458,Afiliado 1458,49,M,Plan B,2020-06-12,,Activo,4,313,Villa Carlos Paz,Córdoba
+1459,Afiliado 1459,63,M,Plan B,2021-09-16,,Activo,1,74,Villa María,Córdoba
+1460,Afiliado 1460,11,F,Plan C,2026-02-19,,Activo,2,233,San Francisco,Córdoba
+1461,Afiliado 1461,20,M,Plan A,2021-11-26,,Activo,5,296,San Francisco,Córdoba
+1462,Afiliado 1462,58,F,Plan A,2023-12-18,2024-07-18,Baja,8,132,Bell Ville,Córdoba
+1463,Afiliado 1463,72,F,Plan A,2021-07-29,,Activo,1,187,Villa María,Córdoba
+1464,Afiliado 1464,79,M,Plan B,2024-06-30,,Activo,8,188,San Francisco,Córdoba
+1465,Afiliado 1465,64,F,Plan C,2024-03-10,2025-06-06,Baja,5,350,Córdoba Capital,Córdoba
+1466,Afiliado 1466,31,M,Plan A,2020-08-21,,Activo,3,54,Villa María,Córdoba
+1467,Afiliado 1467,51,M,Plan C,2024-03-19,,Activo,4,199,Bell Ville,Córdoba
+1468,Afiliado 1468,59,F,Plan A,2021-01-17,,Activo,2,44,Río Cuarto,Córdoba
+1469,Afiliado 1469,50,F,Plan C,2021-03-19,,Activo,4,206,San Francisco,Córdoba
+1470,Afiliado 1470,77,F,Plan A,2020-09-21,,Activo,4,360,Bell Ville,Córdoba
+1471,Afiliado 1471,4,M,Plan A,2021-04-13,,Activo,8,75,Alta Gracia,Córdoba
+1472,Afiliado 1472,76,F,Plan A,2023-08-04,,Activo,1,186,Jesús María,Córdoba
+1473,Afiliado 1473,27,M,Plan A,2025-04-23,,Activo,7,139,Villa María,Córdoba
+1474,Afiliado 1474,35,F,Plan A,2021-12-22,2022-06-11,Baja,2,153,Bell Ville,Córdoba
+1475,Afiliado 1475,85,F,Plan A,2024-09-15,,Activo,3,28,Villa Carlos Paz,Córdoba
+1476,Afiliado 1476,38,M,Plan B,2024-10-21,,Activo,4,179,Jesús María,Córdoba
+1477,Afiliado 1477,20,F,Plan B,2025-05-26,,Activo,6,355,Jesús María,Córdoba
+1478,Afiliado 1478,76,M,Plan A,2020-02-10,,Activo,2,371,Río Cuarto,Córdoba
+1479,Afiliado 1479,40,M,Plan B,2023-08-19,,Activo,3,235,Río Cuarto,Córdoba
+1480,Afiliado 1480,14,F,Plan B,2025-08-07,,Activo,5,267,Córdoba Capital,Córdoba
+1481,Afiliado 1481,16,F,Plan A,2025-01-19,,Activo,10,50,Córdoba Capital,Córdoba
+1482,Afiliado 1482,24,F,Plan A,2022-06-14,,Activo,9,397,Río Cuarto,Córdoba
+1483,Afiliado 1483,26,M,Plan A,2024-03-26,,Activo,10,8,San Francisco,Córdoba
+1484,Afiliado 1484,64,M,Plan A,2024-01-30,2025-01-08,Baja,8,333,Bell Ville,Córdoba
+1485,Afiliado 1485,45,F,Plan B,2024-08-22,,Activo,9,392,San Francisco,Córdoba
+1486,Afiliado 1486,58,F,Plan A,2021-04-09,,Activo,6,91,Río Cuarto,Córdoba
+1487,Afiliado 1487,36,F,Plan B,2026-02-01,,Activo,5,360,Villa Carlos Paz,Córdoba
+1488,Afiliado 1488,13,M,Plan B,2020-12-24,,Activo,1,316,Jesús María,Córdoba
+1489,Afiliado 1489,79,M,Plan A,2021-02-28,,Activo,8,258,Córdoba Capital,Córdoba
+1490,Afiliado 1490,27,M,Plan B,2023-04-02,,Activo,8,283,Jesús María,Córdoba
+1491,Afiliado 1491,60,M,Plan A,2021-04-13,,Activo,6,238,Jesús María,Córdoba
+1492,Afiliado 1492,28,F,Plan C,2024-06-09,2025-07-27,Baja,5,338,Villa María,Córdoba
+1493,Afiliado 1493,53,M,Plan A,2023-06-13,,Activo,1,213,Córdoba Capital,Córdoba
+1494,Afiliado 1494,66,F,Plan B,2020-03-04,2024-06-14,Baja,6,88,Jesús María,Córdoba
+1495,Afiliado 1495,50,M,Plan B,2022-09-17,,Activo,10,330,Jesús María,Córdoba
+1496,Afiliado 1496,73,F,Plan A,2020-07-30,,Activo,3,326,Jesús María,Córdoba
+1497,Afiliado 1497,40,M,Plan B,2021-12-12,,Activo,7,119,Villa Carlos Paz,Córdoba
+1498,Afiliado 1498,80,F,Plan C,2021-06-01,,Activo,5,284,Río Cuarto,Córdoba
+1499,Afiliado 1499,11,M,Plan B,2023-08-13,,Activo,7,6,Río Cuarto,Córdoba
+1500,Afiliado 1500,69,M,Plan B,2020-04-23,,Activo,10,196,Córdoba Capital,Córdoba

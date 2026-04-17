@@ -1,0 +1,15 @@
+prestador_id,nombre_prestador,tipo,especialidad,ciudad,provincia,costo_promedio_consulta
+1,Hospital Privado,Hospital,Clínica Médica,Jesús María,Córdoba,8281.83
+2,Sanatorio Allende,Clínica,Diagnóstico por Imágenes,Villa Carlos Paz,Córdoba,4464.46
+3,Clínica Reina Fabiola,Clínica,Urgencias,Alta Gracia,Córdoba,8942.12
+4,Sanatorio de la Cañada,Clínica,Clínica Médica,Córdoba Capital,Córdoba,3412.66
+5,Clínica Romagosa,Clínica,Pediatría,Alta Gracia,Córdoba,13911.84
+6,Centro Médico Cerro,Consultorio,Laboratorio,San Francisco,Córdoba,6105.36
+7,Laboratorio Stamboulian,Laboratorio,Ginecología,Villa Carlos Paz,Córdoba,10950.27
+8,Farmacia del Centro,Farmacia,Urgencias,Villa Carlos Paz,Córdoba,6740.53
+9,Urgencias Médicas 24hs,Urgencia,Pediatría,Córdoba Capital,Córdoba,9240.82
+10,Consultorio Dr. Pérez,Consultorio,Traumatología,Villa Carlos Paz,Córdoba,9560.52
+11,Clínica de Ojos,Consultorio,Pediatría,Villa María,Córdoba,5218.25
+12,Centro de Diagnóstico,Laboratorio,Laboratorio,Villa Carlos Paz,Córdoba,14635.02
+13,Sanatorio Parque,Clínica,Traumatología,Alta Gracia,Córdoba,12301.59
+14,Hospital Italiano,Hospital,Urgencias,Alta Gracia,Córdoba,14273.99

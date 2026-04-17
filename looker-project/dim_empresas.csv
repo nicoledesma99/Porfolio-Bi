@@ -1,0 +1,11 @@
+empresa_id,nombre_empresa,categoria,cantidad_afiliados,fecha_inicio_contrato
+1,Arcor SA,PyME,199,2020-08-16
+2,Fiat Chrysler,Individual,358,2020-02-21
+3,Grupo Dinosaurio,PyME,307,2021-07-17
+4,Electroingeniería,PyME,393,2021-05-16
+5,EPEC,Corporativa,463,2021-04-02
+6,Banco Macro,Corporativa,343,2020-10-12
+7,Municipalidad Córdoba,Corporativa,435,2020-07-28
+8,Universidad Nacional,Individual,241,2020-06-27
+9,Roggio Ambiental,PyME,493,2022-05-14
+10,Clínica Privada del Sur,PyME,326,2020-03-06
